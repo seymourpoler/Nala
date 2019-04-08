@@ -4,4 +4,4 @@ dotnet: 2.1
 script:
     - dotnet restore
     - dotnet build
-    - dotnet test test\Nala.Framework.Unit.Test/Nala.Framework.Unit.Test.csproj
+    - dotnet test ./test/Nala.Framework.Unit.Test/Nala.Framework.Unit.Test.csproj

@@ -119,6 +119,14 @@
               "version": "[2.1.0, )",
               "autoReferenced": true
             },
+            "Moq": {
+              "target": "Package",
+              "version": "[4.10.1, )"
+            },
+            "Shouldly": {
+              "target": "Package",
+              "version": "[3.0.2, )"
+            },
             "xunit": {
               "target": "Package",
               "version": "[2.4.1, )"
