@@ -1,0 +1,9 @@
+C:\tmp\Nala\src\Nala.Framework\bin\Debug\netcoreapp3.0\Nala.Framework.deps.json
+C:\tmp\Nala\src\Nala.Framework\bin\Debug\netcoreapp3.0\Nala.Framework.dll
+C:\tmp\Nala\src\Nala.Framework\bin\Debug\netcoreapp3.0\Nala.Framework.pdb
+C:\tmp\Nala\src\Nala.Framework\obj\Debug\netcoreapp3.0\Nala.Framework.csprojAssemblyReference.cache
+C:\tmp\Nala\src\Nala.Framework\obj\Debug\netcoreapp3.0\Nala.Framework.csproj.CoreCompileInputs.cache
+C:\tmp\Nala\src\Nala.Framework\obj\Debug\netcoreapp3.0\Nala.Framework.AssemblyInfoInputs.cache
+C:\tmp\Nala\src\Nala.Framework\obj\Debug\netcoreapp3.0\Nala.Framework.AssemblyInfo.cs
+C:\tmp\Nala\src\Nala.Framework\obj\Debug\netcoreapp3.0\Nala.Framework.dll
+C:\tmp\Nala\src\Nala.Framework\obj\Debug\netcoreapp3.0\Nala.Framework.pdb

@@ -1,0 +1,14 @@
+C:\tmp\Nala\src\Nala.Runner\obj\Debug\netcoreapp2.2\Nala.Runner.csproj.CoreCompileInputs.cache
+C:\tmp\Nala\src\Nala.Runner\obj\Debug\netcoreapp2.2\Nala.Runner.AssemblyInfoInputs.cache
+C:\tmp\Nala\src\Nala.Runner\obj\Debug\netcoreapp2.2\Nala.Runner.AssemblyInfo.cs
+C:\tmp\Nala\src\Nala.Runner\obj\Debug\netcoreapp2.2\Nala.Runner.csprojAssemblyReference.cache
+C:\tmp\Nala\src\Nala.Runner\bin\Debug\netcoreapp2.2\Nala.Runner.deps.json
+C:\tmp\Nala\src\Nala.Runner\bin\Debug\netcoreapp2.2\Nala.Runner.runtimeconfig.json
+C:\tmp\Nala\src\Nala.Runner\bin\Debug\netcoreapp2.2\Nala.Runner.runtimeconfig.dev.json
+C:\tmp\Nala\src\Nala.Runner\bin\Debug\netcoreapp2.2\Nala.Runner.dll
+C:\tmp\Nala\src\Nala.Runner\bin\Debug\netcoreapp2.2\Nala.Runner.pdb
+C:\tmp\Nala\src\Nala.Runner\bin\Debug\netcoreapp2.2\Nala.Framework.dll
+C:\tmp\Nala\src\Nala.Runner\bin\Debug\netcoreapp2.2\Nala.Framework.pdb
+C:\tmp\Nala\src\Nala.Runner\obj\Debug\netcoreapp2.2\Nala.Runner.csproj.CopyComplete
+C:\tmp\Nala\src\Nala.Runner\obj\Debug\netcoreapp2.2\Nala.Runner.dll
+C:\tmp\Nala\src\Nala.Runner\obj\Debug\netcoreapp2.2\Nala.Runner.pdb

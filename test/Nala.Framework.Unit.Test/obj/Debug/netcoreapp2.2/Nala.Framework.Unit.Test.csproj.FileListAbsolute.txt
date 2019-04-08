@@ -1,0 +1,17 @@
+C:\tmp\Nala\test\Nala.Framework.Unit.Test\bin\Debug\netcoreapp2.2\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+C:\tmp\Nala\test\Nala.Framework.Unit.Test\bin\Debug\netcoreapp2.2\xunit.runner.reporters.netcoreapp10.dll
+C:\tmp\Nala\test\Nala.Framework.Unit.Test\bin\Debug\netcoreapp2.2\xunit.runner.utility.netcoreapp10.dll
+C:\tmp\Nala\test\Nala.Framework.Unit.Test\bin\Debug\netcoreapp2.2\Nala.Framework.Unit.Test.deps.json
+C:\tmp\Nala\test\Nala.Framework.Unit.Test\bin\Debug\netcoreapp2.2\Nala.Framework.Unit.Test.runtimeconfig.json
+C:\tmp\Nala\test\Nala.Framework.Unit.Test\bin\Debug\netcoreapp2.2\Nala.Framework.Unit.Test.runtimeconfig.dev.json
+C:\tmp\Nala\test\Nala.Framework.Unit.Test\bin\Debug\netcoreapp2.2\Nala.Framework.Unit.Test.dll
+C:\tmp\Nala\test\Nala.Framework.Unit.Test\bin\Debug\netcoreapp2.2\Nala.Framework.Unit.Test.pdb
+C:\tmp\Nala\test\Nala.Framework.Unit.Test\obj\Debug\netcoreapp2.2\Nala.Framework.Unit.Test.csprojAssemblyReference.cache
+C:\tmp\Nala\test\Nala.Framework.Unit.Test\obj\Debug\netcoreapp2.2\Nala.Framework.Unit.Test.csproj.CoreCompileInputs.cache
+C:\tmp\Nala\test\Nala.Framework.Unit.Test\obj\Debug\netcoreapp2.2\Nala.Framework.Unit.Test.AssemblyInfoInputs.cache
+C:\tmp\Nala\test\Nala.Framework.Unit.Test\obj\Debug\netcoreapp2.2\Nala.Framework.Unit.Test.AssemblyInfo.cs
+C:\tmp\Nala\test\Nala.Framework.Unit.Test\obj\Debug\netcoreapp2.2\Nala.Framework.Unit.Test.dll
+C:\tmp\Nala\test\Nala.Framework.Unit.Test\obj\Debug\netcoreapp2.2\Nala.Framework.Unit.Test.pdb
+C:\tmp\Nala\test\Nala.Framework.Unit.Test\bin\Debug\netcoreapp2.2\Nala.Framework.dll
+C:\tmp\Nala\test\Nala.Framework.Unit.Test\bin\Debug\netcoreapp2.2\Nala.Framework.pdb
+C:\tmp\Nala\test\Nala.Framework.Unit.Test\obj\Debug\netcoreapp2.2\Nala.Framework.Unit.Test.csproj.CopyComplete
