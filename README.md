@@ -1,1 +1,1 @@
-# Nala
+# Nala [![Build Status](https://travis-ci.org/seymourpoler/Nala.svg?branch=master)](https://travis-ci.org/seymourpoler/Nala)
