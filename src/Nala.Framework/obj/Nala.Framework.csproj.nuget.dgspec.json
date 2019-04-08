@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\tmp\\Nala\\src\\Nala.Framework\\Nala.Framework.csproj": {}
+    "C:\\Users\\lrodriguez\\Documents\\code\\GitHub\\Nala\\Nala\\src\\Nala.Framework\\Nala.Framework.csproj": {}
   },
   "projects": {
-    "C:\\tmp\\Nala\\src\\Nala.Framework\\Nala.Framework.csproj": {
+    "C:\\Users\\lrodriguez\\Documents\\code\\GitHub\\Nala\\Nala\\src\\Nala.Framework\\Nala.Framework.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\tmp\\Nala\\src\\Nala.Framework\\Nala.Framework.csproj",
+        "projectUniqueName": "C:\\Users\\lrodriguez\\Documents\\code\\GitHub\\Nala\\Nala\\src\\Nala.Framework\\Nala.Framework.csproj",
         "projectName": "Nala.Framework",
-        "projectPath": "C:\\tmp\\Nala\\src\\Nala.Framework\\Nala.Framework.csproj",
+        "projectPath": "C:\\Users\\lrodriguez\\Documents\\code\\GitHub\\Nala\\Nala\\src\\Nala.Framework\\Nala.Framework.csproj",
         "packagesPath": "C:\\Users\\lrodriguez\\.nuget\\packages\\",
-        "outputPath": "C:\\tmp\\Nala\\src\\Nala.Framework\\obj\\",
+        "outputPath": "C:\\Users\\lrodriguez\\Documents\\code\\GitHub\\Nala\\Nala\\src\\Nala.Framework\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\tmp\\Nala\\test\\Nala.Framework.Unit.Test\\Nala.Framework.Unit.Test.csproj": {}
+    "C:\\Users\\lrodriguez\\Documents\\code\\GitHub\\Nala\\Nala\\test\\Nala.Framework.Unit.Test\\Nala.Framework.Unit.Test.csproj": {}
   },
   "projects": {
-    "C:\\tmp\\Nala\\src\\Nala.Framework\\Nala.Framework.csproj": {
+    "C:\\Users\\lrodriguez\\Documents\\code\\GitHub\\Nala\\Nala\\src\\Nala.Framework\\Nala.Framework.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\tmp\\Nala\\src\\Nala.Framework\\Nala.Framework.csproj",
+        "projectUniqueName": "C:\\Users\\lrodriguez\\Documents\\code\\GitHub\\Nala\\Nala\\src\\Nala.Framework\\Nala.Framework.csproj",
         "projectName": "Nala.Framework",
-        "projectPath": "C:\\tmp\\Nala\\src\\Nala.Framework\\Nala.Framework.csproj",
+        "projectPath": "C:\\Users\\lrodriguez\\Documents\\code\\GitHub\\Nala\\Nala\\src\\Nala.Framework\\Nala.Framework.csproj",
         "packagesPath": "C:\\Users\\lrodriguez\\.nuget\\packages\\",
-        "outputPath": "C:\\tmp\\Nala\\src\\Nala.Framework\\obj\\",
+        "outputPath": "C:\\Users\\lrodriguez\\Documents\\code\\GitHub\\Nala\\Nala\\src\\Nala.Framework\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -62,14 +62,14 @@
         }
       }
     },
-    "C:\\tmp\\Nala\\test\\Nala.Framework.Unit.Test\\Nala.Framework.Unit.Test.csproj": {
+    "C:\\Users\\lrodriguez\\Documents\\code\\GitHub\\Nala\\Nala\\test\\Nala.Framework.Unit.Test\\Nala.Framework.Unit.Test.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\tmp\\Nala\\test\\Nala.Framework.Unit.Test\\Nala.Framework.Unit.Test.csproj",
+        "projectUniqueName": "C:\\Users\\lrodriguez\\Documents\\code\\GitHub\\Nala\\Nala\\test\\Nala.Framework.Unit.Test\\Nala.Framework.Unit.Test.csproj",
         "projectName": "Nala.Framework.Unit.Test",
-        "projectPath": "C:\\tmp\\Nala\\test\\Nala.Framework.Unit.Test\\Nala.Framework.Unit.Test.csproj",
+        "projectPath": "C:\\Users\\lrodriguez\\Documents\\code\\GitHub\\Nala\\Nala\\test\\Nala.Framework.Unit.Test\\Nala.Framework.Unit.Test.csproj",
         "packagesPath": "C:\\Users\\lrodriguez\\.nuget\\packages\\",
-        "outputPath": "C:\\tmp\\Nala\\test\\Nala.Framework.Unit.Test\\obj\\",
+        "outputPath": "C:\\Users\\lrodriguez\\Documents\\code\\GitHub\\Nala\\Nala\\test\\Nala.Framework.Unit.Test\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -79,7 +79,7 @@
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
-          "netcoreapp2.2"
+          "netcoreapp2.1"
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
@@ -92,10 +92,10 @@
           "https://dotnetfeed.blob.core.windows.net/dotnet-windowsdesktop/index.json": {}
         },
         "frameworks": {
-          "netcoreapp2.2": {
+          "netcoreapp2.1": {
             "projectReferences": {
-              "C:\\tmp\\Nala\\src\\Nala.Framework\\Nala.Framework.csproj": {
-                "projectPath": "C:\\tmp\\Nala\\src\\Nala.Framework\\Nala.Framework.csproj"
+              "C:\\Users\\lrodriguez\\Documents\\code\\GitHub\\Nala\\Nala\\src\\Nala.Framework\\Nala.Framework.csproj": {
+                "projectPath": "C:\\Users\\lrodriguez\\Documents\\code\\GitHub\\Nala\\Nala\\src\\Nala.Framework\\Nala.Framework.csproj"
               }
             }
           }
@@ -107,7 +107,7 @@
         }
       },
       "frameworks": {
-        "netcoreapp2.2": {
+        "netcoreapp2.1": {
           "dependencies": {
             "Microsoft.NET.Test.Sdk": {
               "target": "Package",
@@ -116,7 +116,7 @@
             "Microsoft.NETCore.App": {
               "suppressParent": "All",
               "target": "Package",
-              "version": "[2.2.0, )",
+              "version": "[2.1.0, )",
               "autoReferenced": true
             },
             "xunit": {
