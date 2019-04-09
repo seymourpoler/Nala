@@ -1,0 +1,12 @@
+C:\Users\lrodriguez\Documents\code\GitHub\Nala\Nala\test\SampleSpec\obj\Debug\netcoreapp3.0\SampleSpec.csprojAssemblyReference.cache
+C:\Users\lrodriguez\Documents\code\GitHub\Nala\Nala\test\SampleSpec\obj\Debug\netcoreapp3.0\SampleSpec.csproj.CoreCompileInputs.cache
+C:\Users\lrodriguez\Documents\code\GitHub\Nala\Nala\test\SampleSpec\obj\Debug\netcoreapp3.0\SampleSpec.AssemblyInfoInputs.cache
+C:\Users\lrodriguez\Documents\code\GitHub\Nala\Nala\test\SampleSpec\obj\Debug\netcoreapp3.0\SampleSpec.AssemblyInfo.cs
+C:\Users\lrodriguez\Documents\code\GitHub\Nala\Nala\test\SampleSpec\bin\Debug\netcoreapp3.0\SampleSpec.deps.json
+C:\Users\lrodriguez\Documents\code\GitHub\Nala\Nala\test\SampleSpec\bin\Debug\netcoreapp3.0\SampleSpec.dll
+C:\Users\lrodriguez\Documents\code\GitHub\Nala\Nala\test\SampleSpec\bin\Debug\netcoreapp3.0\SampleSpec.pdb
+C:\Users\lrodriguez\Documents\code\GitHub\Nala\Nala\test\SampleSpec\bin\Debug\netcoreapp3.0\Nala.Framework.dll
+C:\Users\lrodriguez\Documents\code\GitHub\Nala\Nala\test\SampleSpec\bin\Debug\netcoreapp3.0\Nala.Framework.pdb
+C:\Users\lrodriguez\Documents\code\GitHub\Nala\Nala\test\SampleSpec\obj\Debug\netcoreapp3.0\SampleSpec.csproj.CopyComplete
+C:\Users\lrodriguez\Documents\code\GitHub\Nala\Nala\test\SampleSpec\obj\Debug\netcoreapp3.0\SampleSpec.dll
+C:\Users\lrodriguez\Documents\code\GitHub\Nala\Nala\test\SampleSpec\obj\Debug\netcoreapp3.0\SampleSpec.pdb

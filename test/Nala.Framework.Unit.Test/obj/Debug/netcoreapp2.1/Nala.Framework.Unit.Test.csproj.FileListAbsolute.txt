@@ -14,3 +14,4 @@ C:\Users\lrodriguez\Documents\code\GitHub\Nala\Nala\test\Nala.Framework.Unit.Tes
 C:\Users\lrodriguez\Documents\code\GitHub\Nala\Nala\test\Nala.Framework.Unit.Test\bin\Debug\netcoreapp2.1\Nala.Framework.Unit.Test.pdb
 C:\Users\lrodriguez\Documents\code\GitHub\Nala\Nala\test\Nala.Framework.Unit.Test\obj\Debug\netcoreapp2.1\Nala.Framework.Unit.Test.dll
 C:\Users\lrodriguez\Documents\code\GitHub\Nala\Nala\test\Nala.Framework.Unit.Test\obj\Debug\netcoreapp2.1\Nala.Framework.Unit.Test.pdb
+C:\Users\lrodriguez\Documents\code\GitHub\Nala\Nala\test\Nala.Framework.Unit.Test\obj\Debug\netcoreapp2.1\Nala.Framework.Unit.Test.csprojAssemblyReference.cache
