@@ -210,5 +210,5 @@ A Specification with AfterAll:
 
 for running the specifications:
 ```bash
-Nala.Runner.exe <path/to/specifications.dll>
+Nala.Runner.exe <the/path/to/specifications.dll>
 ```
