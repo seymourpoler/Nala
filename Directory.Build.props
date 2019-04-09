@@ -1,0 +1,19 @@
+<Project>
+  <PropertyGroup Label="SDK Versions">
+		<NetCoreTargetVersion>netcoreapp2.1</NetCoreTargetVersion> 
+	</PropertyGroup>
+
+	<PropertyGroup Label="Package Versions">       
+	</PropertyGroup>
+
+	<PropertyGroup Label="Test Package Versions">
+    <Microsoft_NET_Test_Sdk>Microsoft_NET_Test_Sdk</Microsoft_NET_Test_Sdk>
+    <xunit>2.4.1</xunit>
+    <xunit_runner_visualstudio>2.4.1</xunit_runner_visualstudio>
+    <Moq>4.10.1</Moq>
+    <Shouldly>3.0.2</Shouldly>
+	</PropertyGroup>
+
+  <PropertyGroup Label="CLI Tools Versions">
+  </PropertyGroup>
+</Project>
