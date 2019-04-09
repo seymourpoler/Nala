@@ -14,12 +14,16 @@ namespace Nala.Runner
             var assembly = Assembly.LoadFrom(filePath);
             var types = assembly.GetTypes();
 
-            var result = types.Where(t =>
-                t.GetTypeInfo().IsClass
-                && !t.GetTypeInfo().IsAbstract
-                && BaseTypes(t).Any(s => s == typeof(Framework.Nala)));
+            var result = types
+                .Where(type =>
+                type.GetTypeInfo().IsClass
+                && !type.GetTypeInfo().IsAbstract
+                && BaseTypes(type).Any(s => s == typeof(Framework.Nala)));
 
-            return result.OrderBy(x => x.Name).ToList().AsReadOnly();
+            return result
+                .OrderBy(x => x.Name)
+                .ToList()
+                .AsReadOnly();
         }
 
         IEnumerable<Type> BaseTypes(Type type)
