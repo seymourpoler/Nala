@@ -3,33 +3,33 @@
   <component name="ChangeListManager">
     <list default="true" id="676f55aa-0652-4b9e-81bb-4d5245b8b9df" name="Default" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/.idea.Nala/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Nala/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Nala.sln" beforeDir="false" afterPath="$PROJECT_DIR$/Nala.sln" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Nala.Framework/bin/Release/netcoreapp2.1/Nala.Framework.dll" beforeDir="false" afterPath="$PROJECT_DIR$/src/Nala.Framework/bin/Release/netcoreapp2.1/Nala.Framework.dll" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Nala.Framework/bin/Release/netcoreapp2.1/Nala.Framework.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/src/Nala.Framework/bin/Release/netcoreapp2.1/Nala.Framework.pdb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Nala.Framework/obj/Nala.Framework.csproj.nuget.cache" beforeDir="false" afterPath="$PROJECT_DIR$/src/Nala.Framework/obj/Nala.Framework.csproj.nuget.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Nala.Framework/obj/Nala.Framework.csproj.nuget.dgspec.json" beforeDir="false" afterPath="$PROJECT_DIR$/src/Nala.Framework/obj/Nala.Framework.csproj.nuget.dgspec.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Nala.Framework/obj/Release/netcoreapp2.1/Nala.Framework.csproj.CoreCompileInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/src/Nala.Framework/obj/Release/netcoreapp2.1/Nala.Framework.csproj.CoreCompileInputs.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Nala.Framework/obj/Release/netcoreapp2.1/Nala.Framework.dll" beforeDir="false" afterPath="$PROJECT_DIR$/src/Nala.Framework/obj/Release/netcoreapp2.1/Nala.Framework.dll" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Nala.Framework/obj/Release/netcoreapp2.1/Nala.Framework.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/src/Nala.Framework/obj/Release/netcoreapp2.1/Nala.Framework.pdb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Nala.Framework/obj/project.assets.json" beforeDir="false" afterPath="$PROJECT_DIR$/src/Nala.Framework/obj/project.assets.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Nala.Runner/Program.cs" beforeDir="false" afterPath="$PROJECT_DIR$/src/Nala.Runner/Program.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Nala.Runner/bin/Release/netcoreapp2.1/win10-x64/Nala.Framework.dll" beforeDir="false" afterPath="$PROJECT_DIR$/src/Nala.Runner/bin/Release/netcoreapp2.1/win10-x64/Nala.Framework.dll" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Nala.Runner/bin/Release/netcoreapp2.1/win10-x64/Nala.Framework.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/src/Nala.Runner/bin/Release/netcoreapp2.1/win10-x64/Nala.Framework.pdb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Nala.Runner/bin/Release/netcoreapp2.1/win10-x64/Nala.Runner.dll" beforeDir="false" afterPath="$PROJECT_DIR$/src/Nala.Runner/bin/Release/netcoreapp2.1/win10-x64/Nala.Runner.dll" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Nala.Runner/bin/Release/netcoreapp2.1/win10-x64/Nala.Runner.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/src/Nala.Runner/bin/Release/netcoreapp2.1/win10-x64/Nala.Runner.pdb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Nala.Runner/bin/Release/netcoreapp2.1/win10-x64/publish/Nala.Framework.dll" beforeDir="false" afterPath="$PROJECT_DIR$/src/Nala.Runner/bin/Release/netcoreapp2.1/win10-x64/publish/Nala.Framework.dll" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Nala.Runner/bin/Release/netcoreapp2.1/win10-x64/publish/Nala.Framework.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/src/Nala.Runner/bin/Release/netcoreapp2.1/win10-x64/publish/Nala.Framework.pdb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Nala.Runner/bin/Release/netcoreapp2.1/win10-x64/publish/Nala.Runner.dll" beforeDir="false" afterPath="$PROJECT_DIR$/src/Nala.Runner/bin/Release/netcoreapp2.1/win10-x64/publish/Nala.Runner.dll" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Nala.Runner/bin/Release/netcoreapp2.1/win10-x64/publish/Nala.Runner.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/src/Nala.Runner/bin/Release/netcoreapp2.1/win10-x64/publish/Nala.Runner.pdb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Nala.Runner/bin/Release/netcoreapp2.1/win10-x64/publish/SampleSpec.dll" beforeDir="false" afterPath="$PROJECT_DIR$/src/Nala.Runner/bin/Release/netcoreapp2.1/win10-x64/publish/SampleSpec.dll" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Nala.Runner/obj/Nala.Runner.csproj.nuget.cache" beforeDir="false" afterPath="$PROJECT_DIR$/src/Nala.Runner/obj/Nala.Runner.csproj.nuget.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Nala.Runner/obj/Nala.Runner.csproj.nuget.dgspec.json" beforeDir="false" afterPath="$PROJECT_DIR$/src/Nala.Runner/obj/Nala.Runner.csproj.nuget.dgspec.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Nala.Runner/obj/Nala.Runner.csproj.nuget.g.props" beforeDir="false" afterPath="$PROJECT_DIR$/src/Nala.Runner/obj/Nala.Runner.csproj.nuget.g.props" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Nala.Runner/obj/Nala.Runner.csproj.nuget.g.targets" beforeDir="false" afterPath="$PROJECT_DIR$/src/Nala.Runner/obj/Nala.Runner.csproj.nuget.g.targets" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Nala.Runner/obj/Release/netcoreapp2.1/win10-x64/Nala.Runner.csprojAssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/src/Nala.Runner/obj/Release/netcoreapp2.1/win10-x64/Nala.Runner.csprojAssemblyReference.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Nala.Runner/obj/Release/netcoreapp2.1/win10-x64/Nala.Runner.dll" beforeDir="false" afterPath="$PROJECT_DIR$/src/Nala.Runner/obj/Release/netcoreapp2.1/win10-x64/Nala.Runner.dll" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Nala.Runner/obj/Release/netcoreapp2.1/win10-x64/Nala.Runner.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/src/Nala.Runner/obj/Release/netcoreapp2.1/win10-x64/Nala.Runner.pdb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Nala.Runner/obj/project.assets.json" beforeDir="false" afterPath="$PROJECT_DIR$/src/Nala.Runner/obj/project.assets.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Nala.Framework/Nala.cs" beforeDir="false" afterPath="$PROJECT_DIR$/src/Nala.Framework/Nala.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Nala.Framework/bin/Debug/netcoreapp2.1/Nala.Framework.dll" beforeDir="false" afterPath="$PROJECT_DIR$/src/Nala.Framework/bin/Debug/netcoreapp2.1/Nala.Framework.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Nala.Framework/bin/Debug/netcoreapp2.1/Nala.Framework.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/src/Nala.Framework/bin/Debug/netcoreapp2.1/Nala.Framework.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Nala.Framework/obj/Debug/netcoreapp2.1/Nala.Framework.dll" beforeDir="false" afterPath="$PROJECT_DIR$/src/Nala.Framework/obj/Debug/netcoreapp2.1/Nala.Framework.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Nala.Framework/obj/Debug/netcoreapp2.1/Nala.Framework.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/src/Nala.Framework/obj/Debug/netcoreapp2.1/Nala.Framework.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Nala.Runner/obj/Debug/netcoreapp2.1/Nala.Runner.assets.cache" beforeDir="false" afterPath="$PROJECT_DIR$/src/Nala.Runner/obj/Debug/netcoreapp2.1/Nala.Runner.assets.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/Nala.Framework.Unit.Test/SpecificationFinder_should.cs" beforeDir="false" afterPath="$PROJECT_DIR$/test/Nala.Framework.Unit.Test/SpecificationFinder_should.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/Nala.Framework.Unit.Test/bin/Debug/netcoreapp2.1/Nala.Framework.Unit.Test.dll" beforeDir="false" afterPath="$PROJECT_DIR$/test/Nala.Framework.Unit.Test/bin/Debug/netcoreapp2.1/Nala.Framework.Unit.Test.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/Nala.Framework.Unit.Test/bin/Debug/netcoreapp2.1/Nala.Framework.Unit.Test.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/test/Nala.Framework.Unit.Test/bin/Debug/netcoreapp2.1/Nala.Framework.Unit.Test.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/Nala.Framework.Unit.Test/bin/Debug/netcoreapp2.1/Nala.Framework.dll" beforeDir="false" afterPath="$PROJECT_DIR$/test/Nala.Framework.Unit.Test/bin/Debug/netcoreapp2.1/Nala.Framework.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/Nala.Framework.Unit.Test/bin/Debug/netcoreapp2.1/Nala.Framework.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/test/Nala.Framework.Unit.Test/bin/Debug/netcoreapp2.1/Nala.Framework.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/Nala.Framework.Unit.Test/obj/Debug/netcoreapp2.1/Nala.Framework.Unit.Test.csprojAssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/test/Nala.Framework.Unit.Test/obj/Debug/netcoreapp2.1/Nala.Framework.Unit.Test.csprojAssemblyReference.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/Nala.Framework.Unit.Test/obj/Debug/netcoreapp2.1/Nala.Framework.Unit.Test.dll" beforeDir="false" afterPath="$PROJECT_DIR$/test/Nala.Framework.Unit.Test/obj/Debug/netcoreapp2.1/Nala.Framework.Unit.Test.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/Nala.Framework.Unit.Test/obj/Debug/netcoreapp2.1/Nala.Framework.Unit.Test.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/test/Nala.Framework.Unit.Test/obj/Debug/netcoreapp2.1/Nala.Framework.Unit.Test.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/SampleSpec/DescribeWithIgoredTest.cs" beforeDir="false" afterPath="$PROJECT_DIR$/test/SampleSpec/DescribeWithIgoredTest.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/SampleSpec/DescribeWithTestAndAfterAll.cs" beforeDir="false" afterPath="$PROJECT_DIR$/test/SampleSpec/DescribeWithTestAndAfterAll.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/SampleSpec/DescribeWithTestAndAfterEach.cs" beforeDir="false" afterPath="$PROJECT_DIR$/test/SampleSpec/DescribeWithTestAndAfterEach.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/SampleSpec/DescribeWithTestAndBeforeAll.cs" beforeDir="false" afterPath="$PROJECT_DIR$/test/SampleSpec/DescribeWithTestAndBeforeAll.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/SampleSpec/DescribeWithTestAndBeforerEach.cs" beforeDir="false" afterPath="$PROJECT_DIR$/test/SampleSpec/DescribeWithTestAndBeforerEach.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/SampleSpec/SimpleTest.cs" beforeDir="false" afterPath="$PROJECT_DIR$/test/SampleSpec/SimpleTest.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/SampleSpec/bin/Debug/netcoreapp2.1/Nala.Framework.dll" beforeDir="false" afterPath="$PROJECT_DIR$/test/SampleSpec/bin/Debug/netcoreapp2.1/Nala.Framework.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/SampleSpec/bin/Debug/netcoreapp2.1/Nala.Framework.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/test/SampleSpec/bin/Debug/netcoreapp2.1/Nala.Framework.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/SampleSpec/bin/Debug/netcoreapp2.1/SampleSpec.dll" beforeDir="false" afterPath="$PROJECT_DIR$/test/SampleSpec/bin/Debug/netcoreapp2.1/SampleSpec.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/SampleSpec/bin/Debug/netcoreapp2.1/SampleSpec.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/test/SampleSpec/bin/Debug/netcoreapp2.1/SampleSpec.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/SampleSpec/obj/Debug/netcoreapp2.1/SampleSpec.csprojAssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/test/SampleSpec/obj/Debug/netcoreapp2.1/SampleSpec.csprojAssemblyReference.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/SampleSpec/obj/Debug/netcoreapp2.1/SampleSpec.dll" beforeDir="false" afterPath="$PROJECT_DIR$/test/SampleSpec/obj/Debug/netcoreapp2.1/SampleSpec.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/SampleSpec/obj/Debug/netcoreapp2.1/SampleSpec.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/test/SampleSpec/obj/Debug/netcoreapp2.1/SampleSpec.pdb" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -53,40 +53,23 @@
     <select />
   </component>
   <component name="FileEditorManager">
-    <leaf>
-      <file leaf-file-name="Nala.cs" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/Nala.Framework/Nala.cs">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-135">
-              <folding>
-                <marker date="1554796638219" expanded="false" signature="6:43" ph="..." />
-                <marker date="1554796638219" expanded="true" signature="69:1480" ph="{...}" />
-                <marker date="1554796638219" expanded="true" signature="93:1478" ph="{...}" />
-                <marker date="1554796638219" expanded="true" signature="173:299" ph="{...}" />
-                <marker date="1554796638219" expanded="true" signature="375:531" ph="{...}" />
-                <marker date="1554796638219" expanded="true" signature="577:643" ph="{...}" />
-                <marker date="1554796638219" expanded="true" signature="688:753" ph="{...}" />
-                <marker date="1554796638219" expanded="true" signature="800:867" ph="{...}" />
-                <marker date="1554796638219" expanded="true" signature="913:979" ph="{...}" />
-                <marker date="1554796638219" expanded="true" signature="1035:1132" ph="{...}" />
-                <marker date="1554796638219" expanded="true" signature="1189:1302" ph="{...}" />
-                <marker date="1554796638219" expanded="true" signature="1349:1412" ph="{...}" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+    <leaf />
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="HighlightingSettingsPerFile">
     <setting file="file://$PROJECT_DIR$/src/Nala.Framework/ConsoleWritter.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/test/SampleSpec/SimpleTest.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/src/Nala.Runner/Program.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/test/Nala.Framework.Unit.Test/Expects/Expected_should.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/test/SampleSpec/DescribeWithIgoredTest.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/test/SampleSpec/DescribeWithTestAndBeforeAll.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/src/Nala.Framework/Nala.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/test/SampleSpec/DescribeWithTestAndAfterEach.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/test/SampleSpec/DescribeWithTestAndAfterAll.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/src/Nala.Runner/TypeFinder.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/test/SampleSpec/DescribeWithTestAndBeforerEach.cs" root0="FORCE_HIGHLIGHTING" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -96,6 +79,14 @@
         <option value="$PROJECT_DIR$/test/Nala.Framework.Unit.Test/Expects/Expect_should.cs" />
         <option value="$PROJECT_DIR$/test/Nala.Framework.Unit.Test/Expects/Expected_should.cs" />
         <option value="$PROJECT_DIR$/src/Nala.Runner/Program.cs" />
+        <option value="$PROJECT_DIR$/src/Nala.Framework/Nala.cs" />
+        <option value="$PROJECT_DIR$/test/SampleSpec/DescribeWithIgoredTest.cs" />
+        <option value="$PROJECT_DIR$/test/SampleSpec/DescribeWithTestAndAfterAll.cs" />
+        <option value="$PROJECT_DIR$/test/SampleSpec/DescribeWithTestAndAfterEach.cs" />
+        <option value="$PROJECT_DIR$/test/SampleSpec/DescribeWithTestAndBeforeAll.cs" />
+        <option value="$PROJECT_DIR$/test/SampleSpec/DescribeWithTestAndBeforerEach.cs" />
+        <option value="$PROJECT_DIR$/test/SampleSpec/SimpleTest.cs" />
+        <option value="$PROJECT_DIR$/src/Nala.Runner/Nala.Runner.csproj" />
       </list>
     </option>
   </component>
@@ -129,6 +120,11 @@
             <path>
               <item name="" type="13324e5d:SolutionExplorerViewPane$ProjectViewPaneTreeStructure$createRoot$1" />
               <item name="Nala (4 projects)" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name="Solution Items" type="977d5f41:SolutionExplorerNodeRider" />
+            </path>
+            <path>
+              <item name="" type="13324e5d:SolutionExplorerViewPane$ProjectViewPaneTreeStructure$createRoot$1" />
+              <item name="Nala (4 projects)" type="977d5f41:SolutionExplorerNodeRider" />
               <item name="src" type="977d5f41:SolutionExplorerNodeRider" />
             </path>
             <path>
@@ -136,6 +132,12 @@
               <item name="Nala (4 projects)" type="977d5f41:SolutionExplorerNodeRider" />
               <item name="src" type="977d5f41:SolutionExplorerNodeRider" />
               <item name="Nala.Framework" type="977d5f41:SolutionExplorerNodeRider" />
+            </path>
+            <path>
+              <item name="" type="13324e5d:SolutionExplorerViewPane$ProjectViewPaneTreeStructure$createRoot$1" />
+              <item name="Nala (4 projects)" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name="src" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name="Nala.Runner (has missing packages)" type="977d5f41:SolutionExplorerNodeRider" />
             </path>
             <path>
               <item name="" type="13324e5d:SolutionExplorerViewPane$ProjectViewPaneTreeStructure$createRoot$1" />
@@ -217,12 +219,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1554820703128</updated>
-      <workItem from="1554820705937" duration="1850000" />
+      <workItem from="1554820705937" duration="2146000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="1850000" />
+    <option name="totallyTimeSpent" value="2146000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -235,10 +237,9 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="1912" y="-8" width="1936" height="1096" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="right" id="Errors In Solution" weight="0.32995737" />
+      <window_info anchor="right" id="Errors In Solution" visible="true" weight="0.32995737" />
       <window_info anchor="bottom" id="Event Log" sideWeight="0.50053304" side_tool="true" weight="0.32937685" />
       <window_info anchor="bottom" id="Unit Tests" weight="0.32937685" />
       <window_info anchor="bottom" id="Database Changes" show_stripe_button="false" />
@@ -246,9 +247,9 @@
       <window_info anchor="bottom" id="Run" order="2" />
       <window_info anchor="bottom" id="Terminal" sideWeight="0.49946696" weight="0.32937685" />
       <window_info anchor="bottom" id="NuGet" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.14072494" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.14072494" />
       <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Build" weight="0.32937685" />
+      <window_info active="true" anchor="bottom" id="Build" visible="true" weight="0.32937685" />
       <window_info anchor="right" id="Database" weight="0.32995737" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" side_tool="true" />
@@ -391,6 +392,136 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/test/SampleSpec/DescribeWithIgoredTest.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="304">
+          <caret line="39" column="21" selection-start-line="39" selection-start-column="21" selection-end-line="39" selection-end-column="21" />
+          <folding>
+            <marker date="1554827497732" expanded="true" signature="20:1745" ph="{...}" />
+            <marker date="1554827497732" expanded="true" signature="84:1743" ph="{...}" />
+            <marker date="1554827497732" expanded="true" signature="149:335" ph="{...}" />
+            <marker date="1554827497732" expanded="true" signature="217:323" ph="{...}" />
+            <marker date="1554827497732" expanded="true" signature="405:591" ph="{...}" />
+            <marker date="1554827497732" expanded="true" signature="474:579" ph="{...}" />
+            <marker date="1554827497732" expanded="true" signature="667:854" ph="{...}" />
+            <marker date="1554827497732" expanded="true" signature="736:842" ph="{...}" />
+            <marker date="1554827497732" expanded="true" signature="946:1226" ph="{...}" />
+            <marker date="1554827497732" expanded="true" signature="1015:1214" ph="{...}" />
+            <marker date="1554827497732" expanded="true" signature="1080:1198" ph="{...}" />
+            <marker date="1554827497732" expanded="true" signature="1340:1737" ph="{...}" />
+            <marker date="1554827497732" expanded="true" signature="1409:1725" ph="{...}" />
+            <marker date="1554827497732" expanded="true" signature="1474:1709" ph="{...}" />
+            <marker date="1554827497732" expanded="true" signature="1558:1688" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test/SampleSpec/DescribeWithTestAndAfterAll.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="247">
+          <caret line="13" column="21" selection-start-line="13" selection-start-column="21" selection-end-line="13" selection-end-column="21" />
+          <folding>
+            <marker date="1554827506974" expanded="true" signature="20:782" ph="{...}" />
+            <marker date="1554827506974" expanded="true" signature="89:780" ph="{...}" />
+            <marker date="1554827506974" expanded="true" signature="169:428" ph="{...}" />
+            <marker date="1554827506974" expanded="true" signature="262:416" ph="{...}" />
+            <marker date="1554827506974" expanded="true" signature="508:774" ph="{...}" />
+            <marker date="1554827506974" expanded="true" signature="608:762" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test/SampleSpec/DescribeWithTestAndAfterEach.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="15" column="21" selection-start-line="15" selection-start-column="21" selection-end-line="15" selection-end-column="21" />
+          <folding>
+            <marker date="1554827515332" expanded="true" signature="20:1164" ph="{...}" />
+            <marker date="1554827515332" expanded="true" signature="90:1162" ph="{...}" />
+            <marker date="1554827515332" expanded="true" signature="170:577" ph="{...}" />
+            <marker date="1554827515332" expanded="true" signature="264:565" ph="{...}" />
+            <marker date="1554827515332" expanded="true" signature="657:1156" ph="{...}" />
+            <marker date="1554827515332" expanded="true" signature="748:1144" ph="{...}" />
+            <marker date="1554827515332" expanded="true" signature="1006:1128" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test/SampleSpec/DescribeWithTestAndBeforeAll.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="266">
+          <caret line="14" column="21" lean-forward="true" selection-start-line="14" selection-start-column="21" selection-end-line="14" selection-end-column="21" />
+          <folding>
+            <marker date="1554827521028" expanded="true" signature="20:802" ph="{...}" />
+            <marker date="1554827521028" expanded="true" signature="90:800" ph="{...}" />
+            <marker date="1554827521028" expanded="true" signature="168:794" ph="{...}" />
+            <marker date="1554827521028" expanded="true" signature="260:481" ph="{...}" />
+            <marker date="1554827521028" expanded="true" signature="575:782" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test/SampleSpec/DescribeWithTestAndBeforerEach.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="15" column="21" selection-start-line="15" selection-start-column="21" selection-end-line="15" selection-end-column="21" />
+          <folding>
+            <marker date="1554827531348" expanded="true" signature="20:1165" ph="{...}" />
+            <marker date="1554827531348" expanded="true" signature="95:1163" ph="{...}" />
+            <marker date="1554827531348" expanded="true" signature="173:580" ph="{...}" />
+            <marker date="1554827531348" expanded="true" signature="266:568" ph="{...}" />
+            <marker date="1554827531348" expanded="true" signature="658:1157" ph="{...}" />
+            <marker date="1554827531348" expanded="true" signature="748:1145" ph="{...}" />
+            <marker date="1554827531348" expanded="true" signature="1007:1129" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test/SampleSpec/SimpleTest.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="418">
+          <caret line="22" column="21" selection-start-line="22" selection-start-column="21" selection-end-line="22" selection-end-column="21" />
+          <folding>
+            <marker date="1554827551951" expanded="true" signature="20:824" ph="{...}" />
+            <marker date="1554827551951" expanded="true" signature="72:822" ph="{...}" />
+            <marker date="1554827551951" expanded="true" signature="112:194" ph="{...}" />
+            <marker date="1554827551951" expanded="true" signature="240:332" ph="{...}" />
+            <marker date="1554827551951" expanded="true" signature="391:566" ph="{...}" />
+            <marker date="1554827551951" expanded="true" signature="459:554" ph="{...}" />
+            <marker date="1554827551951" expanded="true" signature="628:816" ph="{...}" />
+            <marker date="1554827551951" expanded="true" signature="699:804" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Directory.Build.props">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="342">
+          <caret line="18" column="84" lean-forward="true" selection-start-line="18" selection-start-column="84" selection-end-line="18" selection-end-column="84" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Nala.Framework/Nala.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="406">
+          <caret line="47" column="29" selection-start-line="47" selection-start-column="29" selection-end-line="47" selection-end-column="29" />
+          <folding>
+            <marker date="1554827454626" expanded="false" signature="6:43" ph="..." />
+            <marker date="1554827454626" expanded="true" signature="69:1480" ph="{...}" />
+            <marker date="1554827454626" expanded="true" signature="93:1478" ph="{...}" />
+            <marker date="1554827454626" expanded="true" signature="173:299" ph="{...}" />
+            <marker date="1554827454626" expanded="true" signature="375:531" ph="{...}" />
+            <marker date="1554827454626" expanded="true" signature="577:643" ph="{...}" />
+            <marker date="1554827454626" expanded="true" signature="688:753" ph="{...}" />
+            <marker date="1554827454626" expanded="true" signature="800:867" ph="{...}" />
+            <marker date="1554827454626" expanded="true" signature="913:979" ph="{...}" />
+            <marker date="1554827454626" expanded="true" signature="1035:1132" ph="{...}" />
+            <marker date="1554827454626" expanded="true" signature="1189:1302" ph="{...}" />
+            <marker date="1554827454626" expanded="true" signature="1349:1412" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/Nala.Runner/Program.cs">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="152">
@@ -405,23 +536,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Nala.Framework/Nala.cs">
+    <entry file="file://$PROJECT_DIR$/src/Nala.Runner/Nala.Runner.csproj">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-135">
-          <folding>
-            <marker date="1554796638219" expanded="false" signature="6:43" ph="..." />
-            <marker date="1554796638219" expanded="true" signature="69:1480" ph="{...}" />
-            <marker date="1554796638219" expanded="true" signature="93:1478" ph="{...}" />
-            <marker date="1554796638219" expanded="true" signature="173:299" ph="{...}" />
-            <marker date="1554796638219" expanded="true" signature="375:531" ph="{...}" />
-            <marker date="1554796638219" expanded="true" signature="577:643" ph="{...}" />
-            <marker date="1554796638219" expanded="true" signature="688:753" ph="{...}" />
-            <marker date="1554796638219" expanded="true" signature="800:867" ph="{...}" />
-            <marker date="1554796638219" expanded="true" signature="913:979" ph="{...}" />
-            <marker date="1554796638219" expanded="true" signature="1035:1132" ph="{...}" />
-            <marker date="1554796638219" expanded="true" signature="1189:1302" ph="{...}" />
-            <marker date="1554796638219" expanded="true" signature="1349:1412" ph="{...}" />
-          </folding>
+        <state>
+          <caret column="32" selection-start-column="9" selection-end-column="32" />
         </state>
       </provider>
     </entry>

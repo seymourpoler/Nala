@@ -5,47 +5,47 @@ namespace Nala.Framework
 {
     public class Nala
     {
-        public void describe(string testSpecificationName, Action action)
+        public void Describe(string testSpecificationName, Action action)
         {          
             Specification.AddContext(new DescribeSpecification(testSpecificationName, action));
         }
 
-        public void xdescribe(string testSpecificationName, Action action)
+        public void XDescribe(string testSpecificationName, Action action)
         {
             Specification.AddContext(new DescribeSpecification(testSuiteName: testSpecificationName, action: action, isIgnored: true));
         }
 
-        public void beforeAll(Action action)
+        public void BeforeAll(Action action)
         {
             Specification.BeforeAll = action;
         }
 
-        public void afterAll(Action action)
+        public void AfterAll(Action action)
         {
             Specification.AfterAll = action;
         }
 
-        public void beforeEach(Action action)
+        public void BeforeEach(Action action)
         {
             Specification.BeforeEach = action;
         }
 
-        public void afterEach(Action action)
+        public void AfterEach(Action action)
         {
             Specification.AfterEach = action;
         }
 
-        public void it(string testName, Action action)
+        public void It(string testName, Action action)
         {
             Specification.AddTest(new Test(name: testName, action: action));
         }
 
-        public void xit(string testName, Action action)
+        public void XIt(string testName, Action action)
         {
             Specification.AddTest(new Test(name: testName, action:action, isIgnored: true));
         }
 
-        public Expected<T> expect<T>(T value)
+        public Expected<T> Expect<T>(T value)
         {
             return new Expected<T>(value);
         }

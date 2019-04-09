@@ -60,11 +60,6 @@
           "assetTargetFallback": true,
           "warn": true
         }
-      },
-      "runtimes": {
-        "win10-x64": {
-          "#import": []
-        }
       }
     },
     "C:\\Users\\lrodriguez\\Documents\\code\\GitHub\\Nala\\Nala\\src\\Nala.Runner\\Nala.Runner.csproj": {
@@ -117,7 +112,7 @@
             "Microsoft.NETCore.App": {
               "suppressParent": "All",
               "target": "Package",
-              "version": "[2.1.9, )",
+              "version": "[2.1.0, )",
               "autoReferenced": true
             }
           },
@@ -126,11 +121,6 @@
           ],
           "assetTargetFallback": true,
           "warn": true
-        }
-      },
-      "runtimes": {
-        "win10-x64": {
-          "#import": []
         }
       }
     }

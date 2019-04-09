@@ -2,50 +2,50 @@
 {
     public class DescribeWithIgoredTest : Nala.Framework.Nala
     {
-        public void method_with_describe_an_ignored_test()
+        public void Method_with_describe_an_ignored_test()
         {
-            describe("a describe with ignore test", () =>
+            Describe("a describe with ignore test", () =>
             {
-                xit("ignored test", () => { throw new System.Exception(); });
+                XIt("ignored test", () => { throw new System.Exception(); });
             });
         }
         
-        public void method_with_ignored_describe_an_a_test()
+        public void Method_with_ignored_describe_an_a_test()
         {
-            xdescribe("a describe with ignore test", () =>
+            XDescribe("a describe with ignore test", () =>
             {
-                it("ignored test", () => { throw new System.Exception(); });
+                It("ignored test", () => { throw new System.Exception(); });
             });
         }
         
-        public void method_with_ignored_describe_an_ignored_test()
+        public void Method_with_ignored_describe_an_ignored_test()
         {
-            xdescribe("a describe with ignore test", () =>
+            XDescribe("a describe with ignore test", () =>
             {
-                xit("ignored test", () => { throw new System.Exception(); });
+                XIt("ignored test", () => { throw new System.Exception(); });
             });
         }
         
-        public void method_with_ignored_describe_and_another_describe_and_a_test()
+        public void Method_with_ignored_describe_and_another_describe_and_a_test()
         {
-            xdescribe("a describe with ignore test", () =>
+            XDescribe("a describe with ignore test", () =>
             {
-                describe("another describe", () =>
+                Describe("another describe", () =>
                 {
-                    it("ignored test", () => { throw new System.Exception(); }); 
+                    It("ignored test", () => { throw new System.Exception(); }); 
                 });
             });
         }
         
-        public void method_with_ignored_describe_and_another_describe_with_another_describe_and_a_test()
+        public void Method_with_ignored_describe_and_another_describe_with_another_describe_and_a_test()
         {
-            xdescribe("a describe with ignore test", () =>
+            XDescribe("a describe with ignore test", () =>
             {
-                describe("another describe", () =>
+                Describe("another describe", () =>
                 {
-                    describe("another of another describe", () =>
+                    Describe("another of another describe", () =>
                     {
-                        it("ignored test", () => { throw new System.Exception(); }); 
+                        It("ignored test", () => { throw new System.Exception(); }); 
                     }); 
                 });
             });

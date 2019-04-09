@@ -59,7 +59,7 @@ namespace Nala.Framework.Unit.Test
         {
             public void a_test_method()
             {
-                it("a test", () =>{ var test = "a test"; });
+                It("a test", () =>{ var test = "a test"; });
             }
         }
         
@@ -78,9 +78,9 @@ namespace Nala.Framework.Unit.Test
         {
             public void a_test_method()
             {
-                describe("a describe", () =>
+                Describe("a describe", () =>
                 {
-                    it("a test", () =>
+                    It("a test", () =>
                     {
                         var test = "a test";
                     });
@@ -104,14 +104,14 @@ namespace Nala.Framework.Unit.Test
         {
             public void a_test_method()
             {
-                describe("a describe", () =>
+                Describe("a describe", () =>
                 {
-                    it("a test", () => { var test = "a test"; });
+                    It("a test", () => { var test = "a test"; });
                 });
 
-                it("first test", () => { var test = "a test"; });
+                It("first test", () => { var test = "a test"; });
                 
-                it("second test", () => { var test = "za test"; });
+                It("second test", () => { var test = "za test"; });
             }
         }
         
@@ -131,11 +131,11 @@ namespace Nala.Framework.Unit.Test
         {
             public void a_test_method()
             {
-                describe("a describe", () =>
+                Describe("a describe", () =>
                 {
-                    describe("a describe inside", () =>
+                    Describe("a describe inside", () =>
                     {
-                        it("a test", () => { expect<string>("h").ToBeNull(); });    
+                        It("a test", () => { Expect<string>("h").ToBeNull(); });    
                     });
                 });
             }

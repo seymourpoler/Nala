@@ -2,29 +2,29 @@
 {
     public class SimpleTest : Nala.Framework.Nala
     {
-        public void a_fail_test()
+        public void A_fail_test()
         {
-            it("the test", () => { expect("").ToBeNull(); });
+            It("the test", () => { Expect("").ToBeNull(); });
         }
         
-        public void a_success_test()
+        public void A_success_test()
         {
-            it("the test", () => { expect<string>(null).ToBeNull(); });
+            It("the test", () => { Expect<string>(null).ToBeNull(); });
         }
         
-        public void a_describe_with_a_fail_test()
+        public void A_describe_with_a_fail_test()
         {
-            describe("the describe of a fail test", () =>
+            Describe("the describe of a fail test", () =>
             {
-                it("the test", () => { expect("").ToBeNull(); }); 
+                It("the test", () => { Expect("").ToBeNull(); }); 
             });
         }
         
-        public void a_describe_with_a_success_test()
+        public void A_describe_with_a_success_test()
         {
-            describe("the describe of a success test", () =>
+            Describe("the describe of a success test", () =>
             {
-                it("the test", () => { expect<string>(null).ToBeNull(); }); 
+                It("the test", () => { Expect<string>(null).ToBeNull(); }); 
             });
         }
     }
