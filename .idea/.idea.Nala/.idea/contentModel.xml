@@ -74,7 +74,9 @@
         <e p="Nala.Framework.Unit.Test" t="IncludeRecursive">
           <e p="bin" t="ExcludeRecursive" />
           <e p="Check_should.cs" t="Include" />
-          <e p="Expect_should.cs" t="Include" />
+          <e p="Expects" t="Include">
+            <e p="Expected_should.cs" t="Include" />
+          </e>
           <e p="Extensions" t="Include">
             <e p="ObjectExtensions_should.cs" t="Include" />
             <e p="ReadOnlyCollectionExtensions_should.cs" t="Include" />

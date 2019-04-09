@@ -3,9 +3,9 @@ using Nala.Framework.Expects;
 using Shouldly;
 using Xunit;
 
-namespace Nala.Framework.Unit.Test
+namespace Nala.Framework.Unit.Test.Expects
 {
-    public class Expect_should
+    public class Expected_should
     {
         [Fact]
         public void do_nothing_when_is_null()
