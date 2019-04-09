@@ -17,7 +17,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SampleSpec", "test\SampleSp
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{7730EA69-6F5E-4EEC-91F2-01FCF19086CE}"
 	ProjectSection(SolutionItems) = preProject
+		.travis.yml = .travis.yml
 		Directory.Build.props = Directory.Build.props
+		LICENSE = LICENSE
+		README.md = README.md
 	EndProjectSection
 EndProject
 Global
