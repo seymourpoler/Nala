@@ -1,5 +1,3 @@
-using Nala.Framework;
-
 namespace SampleSpec
 {
     public class DescribeWithTestAndBeforeAll : Nala.Framework.Nala

@@ -1,6 +1,4 @@
-﻿using Nala.Framework;
-
-namespace SampleSpec
+﻿namespace SampleSpec
 {
     public class DescribeWithIgoredTest : Nala.Framework.Nala
     {

@@ -1,13 +1,19 @@
 ﻿using Nala.Framework;
+using System;
 
 namespace Nala.Runner
 {
-    class Program
+    public static class Program
     {
-        static void Main(string[] args)
+        public static void Main(string[] args)
         {
-            //var path = args[0];
-            var path = "SampleSpec.dll";
+            string path = String.Empty;
+#if DEBUG
+            path = $"{System.Environment.CurrentDirectory}\\SampleSpec.dll";
+#else
+            path = args[0];
+#endif
+
             var typeFinder = new TypeFinder();
             var specificationFinder = new SpecificationFinder(new ClassFinder(new MethodFinder()));
             var specificationWritter = new SpecificationWritter(new ConsoleWritter());

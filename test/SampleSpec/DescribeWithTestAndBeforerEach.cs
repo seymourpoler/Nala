@@ -1,5 +1,3 @@
-using Nala.Framework;
-
 namespace SampleSpec
 {
     public class DescribeWithSuccessTestAndForEach : Nala.Framework.Nala

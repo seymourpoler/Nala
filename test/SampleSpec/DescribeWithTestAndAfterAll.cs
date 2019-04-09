@@ -1,6 +1,4 @@
-﻿using Nala.Framework;
-
-namespace SampleSpec
+﻿namespace SampleSpec
 {
     public class DescribeWithTestAndAfterAll : Nala.Framework.Nala
     {
