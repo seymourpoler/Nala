@@ -7,12 +7,7 @@ namespace Nala.Runner
     {
         public static void Main(string[] args)
         {
-            string path = String.Empty;
-#if DEBUG
-            path = $"{System.Environment.CurrentDirectory}\\SampleSpec.dll";
-#else
-            path = args[0];
-#endif
+            var path = args[0];
 
             var typeFinder = new TypeFinder();
             var specificationFinder = new SpecificationFinder(new ClassFinder(new MethodFinder()));

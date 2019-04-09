@@ -2,9 +2,34 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="676f55aa-0652-4b9e-81bb-4d5245b8b9df" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.Nala/.idea/contentModel.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Nala/.idea/contentModel.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/test/Nala.Framework.Unit.Test/Expect_should.cs" beforeDir="false" afterPath="$PROJECT_DIR$/test/Nala.Framework.Unit.Test/Expects/Expected_should.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/test/Nala.Framework.Unit.Test/Nala.Framework.Unit.Test.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/test/Nala.Framework.Unit.Test/Nala.Framework.Unit.Test.csproj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.Nala/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Nala/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Nala.sln" beforeDir="false" afterPath="$PROJECT_DIR$/Nala.sln" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Nala.Framework/bin/Release/netcoreapp2.1/Nala.Framework.dll" beforeDir="false" afterPath="$PROJECT_DIR$/src/Nala.Framework/bin/Release/netcoreapp2.1/Nala.Framework.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Nala.Framework/bin/Release/netcoreapp2.1/Nala.Framework.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/src/Nala.Framework/bin/Release/netcoreapp2.1/Nala.Framework.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Nala.Framework/obj/Nala.Framework.csproj.nuget.cache" beforeDir="false" afterPath="$PROJECT_DIR$/src/Nala.Framework/obj/Nala.Framework.csproj.nuget.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Nala.Framework/obj/Nala.Framework.csproj.nuget.dgspec.json" beforeDir="false" afterPath="$PROJECT_DIR$/src/Nala.Framework/obj/Nala.Framework.csproj.nuget.dgspec.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Nala.Framework/obj/Release/netcoreapp2.1/Nala.Framework.csproj.CoreCompileInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/src/Nala.Framework/obj/Release/netcoreapp2.1/Nala.Framework.csproj.CoreCompileInputs.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Nala.Framework/obj/Release/netcoreapp2.1/Nala.Framework.dll" beforeDir="false" afterPath="$PROJECT_DIR$/src/Nala.Framework/obj/Release/netcoreapp2.1/Nala.Framework.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Nala.Framework/obj/Release/netcoreapp2.1/Nala.Framework.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/src/Nala.Framework/obj/Release/netcoreapp2.1/Nala.Framework.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Nala.Framework/obj/project.assets.json" beforeDir="false" afterPath="$PROJECT_DIR$/src/Nala.Framework/obj/project.assets.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Nala.Runner/Program.cs" beforeDir="false" afterPath="$PROJECT_DIR$/src/Nala.Runner/Program.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Nala.Runner/bin/Release/netcoreapp2.1/win10-x64/Nala.Framework.dll" beforeDir="false" afterPath="$PROJECT_DIR$/src/Nala.Runner/bin/Release/netcoreapp2.1/win10-x64/Nala.Framework.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Nala.Runner/bin/Release/netcoreapp2.1/win10-x64/Nala.Framework.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/src/Nala.Runner/bin/Release/netcoreapp2.1/win10-x64/Nala.Framework.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Nala.Runner/bin/Release/netcoreapp2.1/win10-x64/Nala.Runner.dll" beforeDir="false" afterPath="$PROJECT_DIR$/src/Nala.Runner/bin/Release/netcoreapp2.1/win10-x64/Nala.Runner.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Nala.Runner/bin/Release/netcoreapp2.1/win10-x64/Nala.Runner.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/src/Nala.Runner/bin/Release/netcoreapp2.1/win10-x64/Nala.Runner.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Nala.Runner/bin/Release/netcoreapp2.1/win10-x64/publish/Nala.Framework.dll" beforeDir="false" afterPath="$PROJECT_DIR$/src/Nala.Runner/bin/Release/netcoreapp2.1/win10-x64/publish/Nala.Framework.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Nala.Runner/bin/Release/netcoreapp2.1/win10-x64/publish/Nala.Framework.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/src/Nala.Runner/bin/Release/netcoreapp2.1/win10-x64/publish/Nala.Framework.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Nala.Runner/bin/Release/netcoreapp2.1/win10-x64/publish/Nala.Runner.dll" beforeDir="false" afterPath="$PROJECT_DIR$/src/Nala.Runner/bin/Release/netcoreapp2.1/win10-x64/publish/Nala.Runner.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Nala.Runner/bin/Release/netcoreapp2.1/win10-x64/publish/Nala.Runner.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/src/Nala.Runner/bin/Release/netcoreapp2.1/win10-x64/publish/Nala.Runner.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Nala.Runner/bin/Release/netcoreapp2.1/win10-x64/publish/SampleSpec.dll" beforeDir="false" afterPath="$PROJECT_DIR$/src/Nala.Runner/bin/Release/netcoreapp2.1/win10-x64/publish/SampleSpec.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Nala.Runner/obj/Nala.Runner.csproj.nuget.cache" beforeDir="false" afterPath="$PROJECT_DIR$/src/Nala.Runner/obj/Nala.Runner.csproj.nuget.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Nala.Runner/obj/Nala.Runner.csproj.nuget.dgspec.json" beforeDir="false" afterPath="$PROJECT_DIR$/src/Nala.Runner/obj/Nala.Runner.csproj.nuget.dgspec.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Nala.Runner/obj/Nala.Runner.csproj.nuget.g.props" beforeDir="false" afterPath="$PROJECT_DIR$/src/Nala.Runner/obj/Nala.Runner.csproj.nuget.g.props" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Nala.Runner/obj/Nala.Runner.csproj.nuget.g.targets" beforeDir="false" afterPath="$PROJECT_DIR$/src/Nala.Runner/obj/Nala.Runner.csproj.nuget.g.targets" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Nala.Runner/obj/Release/netcoreapp2.1/win10-x64/Nala.Runner.csprojAssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/src/Nala.Runner/obj/Release/netcoreapp2.1/win10-x64/Nala.Runner.csprojAssemblyReference.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Nala.Runner/obj/Release/netcoreapp2.1/win10-x64/Nala.Runner.dll" beforeDir="false" afterPath="$PROJECT_DIR$/src/Nala.Runner/obj/Release/netcoreapp2.1/win10-x64/Nala.Runner.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Nala.Runner/obj/Release/netcoreapp2.1/win10-x64/Nala.Runner.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/src/Nala.Runner/obj/Release/netcoreapp2.1/win10-x64/Nala.Runner.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Nala.Runner/obj/project.assets.json" beforeDir="false" afterPath="$PROJECT_DIR$/src/Nala.Runner/obj/project.assets.json" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -13,124 +38,39 @@
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="false" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="Program.cs" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Nala.Runner/Program.cs">
+      <file leaf-file-name="Nala.cs" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/Nala.Framework/Nala.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="437">
-              <caret line="24" column="16" selection-start-line="24" selection-start-column="16" selection-end-line="24" selection-end-column="16" />
+            <state relative-caret-position="-135">
               <folding>
-                <marker date="1554815605074" expanded="false" signature="6:35" ph="..." />
-                <marker date="1554815605074" expanded="true" signature="58:943" ph="{...}" />
-                <marker date="1554815605074" expanded="true" signature="92:941" ph="{...}" />
-                <marker date="1554815605074" expanded="true" signature="145:935" ph="{...}" />
-                <marker date="1554815605074" expanded="true" signature="703:870" ph="{...}" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Expected_should.cs" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/test/Nala.Framework.Unit.Test/Expects/Expected_should.cs">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="133">
-              <caret line="7" column="22" selection-start-line="7" selection-start-column="22" selection-end-line="7" selection-end-column="22" />
-              <folding>
-                <marker date="1554826880490" expanded="true" signature="6:72" ph="..." />
-                <marker date="1554826880490" expanded="true" signature="116:7481" ph="{...}" />
-                <marker date="1554826880490" expanded="true" signature="151:7479" ph="{...}" />
-                <marker date="1554826880490" expanded="true" signature="218:295" ph="{...}" />
-                <marker date="1554826880490" expanded="true" signature="384:584" ph="{...}" />
-                <marker date="1554826880490" expanded="true" signature="428:521" ph="{...}" />
-                <marker date="1554826880490" expanded="true" signature="658:735" ph="{...}" />
-                <marker date="1554826880490" expanded="true" signature="814:1014" ph="{...}" />
-                <marker date="1554826880490" expanded="true" signature="858:951" ph="{...}" />
-                <marker date="1554826880490" expanded="true" signature="1074:1143" ph="{...}" />
-                <marker date="1554826880490" expanded="true" signature="1230:1419" ph="{...}" />
-                <marker date="1554826880490" expanded="true" signature="1274:1356" ph="{...}" />
-                <marker date="1554826880490" expanded="true" signature="1483:1557" ph="{...}" />
-                <marker date="1554826880490" expanded="true" signature="1634:1826" ph="{...}" />
-                <marker date="1554826880490" expanded="true" signature="1678:1763" ph="{...}" />
-                <marker date="1554826880490" expanded="true" signature="1896:1965" ph="{...}" />
-                <marker date="1554826880490" expanded="true" signature="2044:2236" ph="{...}" />
-                <marker date="1554826880490" expanded="true" signature="2088:2173" ph="{...}" />
-                <marker date="1554826880490" expanded="true" signature="2310:2384" ph="{...}" />
-                <marker date="1554826880490" expanded="true" signature="2460:2651" ph="{...}" />
-                <marker date="1554826880490" expanded="true" signature="2504:2588" ph="{...}" />
-                <marker date="1554826880490" expanded="true" signature="2721:2792" ph="{...}" />
-                <marker date="1554826880490" expanded="true" signature="2872:3061" ph="{...}" />
-                <marker date="1554826880490" expanded="true" signature="2916:2998" ph="{...}" />
-                <marker date="1554826880490" expanded="true" signature="3127:3201" ph="{...}" />
-                <marker date="1554826880490" expanded="true" signature="3280:3422" ph="{...}" />
-                <marker date="1554826880490" expanded="true" signature="3324:3411" ph="{...}" />
-                <marker date="1554826880490" expanded="true" signature="3497:3571" ph="{...}" />
-                <marker date="1554826880490" expanded="true" signature="3660:3812" ph="{...}" />
-                <marker date="1554826880490" expanded="true" signature="3894:4018" ph="{...}" />
-                <marker date="1554826880490" expanded="true" signature="4114:4322" ph="{...}" />
-                <marker date="1554826880490" expanded="true" signature="4158:4259" ph="{...}" />
-                <marker date="1554826880490" expanded="true" signature="4408:4502" ph="{...}" />
-                <marker date="1554826880490" expanded="true" signature="4593:4864" ph="{...}" />
-                <marker date="1554826880490" expanded="true" signature="4637:4801" ph="{...}" />
-                <marker date="1554826880490" expanded="true" signature="4927:5016" ph="{...}" />
-                <marker date="1554826880490" expanded="true" signature="5095:5306" ph="{...}" />
-                <marker date="1554826880490" expanded="true" signature="5139:5243" ph="{...}" />
-                <marker date="1554826880490" expanded="true" signature="5381:5477" ph="{...}" />
-                <marker date="1554826880490" expanded="true" signature="5557:5769" ph="{...}" />
-                <marker date="1554826880490" expanded="true" signature="5601:5706" ph="{...}" />
-                <marker date="1554826880490" expanded="true" signature="5839:5912" ph="{...}" />
-                <marker date="1554826880490" expanded="true" signature="5999:6191" ph="{...}" />
-                <marker date="1554826880490" expanded="true" signature="6043:6128" ph="{...}" />
-                <marker date="1554826880490" expanded="true" signature="6273:6350" ph="{...}" />
-                <marker date="1554826880490" expanded="true" signature="6433:6629" ph="{...}" />
-                <marker date="1554826880490" expanded="true" signature="6477:6566" ph="{...}" />
-                <marker date="1554826880490" expanded="true" signature="6704:6774" ph="{...}" />
-                <marker date="1554826880490" expanded="true" signature="6858:7047" ph="{...}" />
-                <marker date="1554826880490" expanded="true" signature="6902:6984" ph="{...}" />
-                <marker date="1554826880490" expanded="true" signature="7126:7200" ph="{...}" />
-                <marker date="1554826880490" expanded="true" signature="7280:7473" ph="{...}" />
-                <marker date="1554826880490" expanded="true" signature="7324:7410" ph="{...}" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="ConsoleWritter.cs" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Nala.Framework/ConsoleWritter.cs">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="323">
-              <caret line="17" column="27" selection-start-line="17" selection-start-column="27" selection-end-line="17" selection-end-column="27" />
-              <folding>
-                <marker date="1554820799280" expanded="true" signature="39:2328" ph="{...}" />
-                <marker date="1554820799280" expanded="true" signature="84:2326" ph="{...}" />
-                <marker date="1554820799280" expanded="true" signature="158:290" ph="{...}" />
-                <marker date="1554820799280" expanded="true" signature="364:496" ph="{...}" />
-                <marker date="1554820799280" expanded="true" signature="567:700" ph="{...}" />
-                <marker date="1554820799280" expanded="true" signature="793:1060" ph="{...}" />
-                <marker date="1554820799280" expanded="true" signature="1135:1459" ph="{...}" />
-                <marker date="1554820799280" expanded="true" signature="1500:1614" ph="{...}" />
-                <marker date="1554820799280" expanded="true" signature="1655:1769" ph="{...}" />
-                <marker date="1554820799280" expanded="true" signature="1811:1926" ph="{...}" />
-                <marker date="1554820799280" expanded="true" signature="1965:2077" ph="{...}" />
-                <marker date="1554820799280" expanded="true" signature="2134:2320" ph="{...}" />
-                <marker date="1554820799280" expanded="true" signature="2246:2310" ph="{...}" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="TypeFinder.cs" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Nala.Runner/TypeFinder.cs">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="380">
-              <caret line="25" column="16" selection-start-line="25" selection-start-column="16" selection-end-line="25" selection-end-column="16" />
-              <folding>
-                <marker date="1554826581288" expanded="false" signature="6:153" ph="..." />
-                <marker date="1554826581288" expanded="true" signature="176:1133" ph="{...}" />
-                <marker date="1554826581288" expanded="true" signature="206:1131" ph="{...}" />
-                <marker date="1554826581288" expanded="true" signature="275:749" ph="{...}" />
-                <marker date="1554826581288" expanded="true" signature="797:1125" ph="{...}" />
-                <marker date="1554826581288" expanded="true" signature="954:1088" ph="{...}" />
+                <marker date="1554796638219" expanded="false" signature="6:43" ph="..." />
+                <marker date="1554796638219" expanded="true" signature="69:1480" ph="{...}" />
+                <marker date="1554796638219" expanded="true" signature="93:1478" ph="{...}" />
+                <marker date="1554796638219" expanded="true" signature="173:299" ph="{...}" />
+                <marker date="1554796638219" expanded="true" signature="375:531" ph="{...}" />
+                <marker date="1554796638219" expanded="true" signature="577:643" ph="{...}" />
+                <marker date="1554796638219" expanded="true" signature="688:753" ph="{...}" />
+                <marker date="1554796638219" expanded="true" signature="800:867" ph="{...}" />
+                <marker date="1554796638219" expanded="true" signature="913:979" ph="{...}" />
+                <marker date="1554796638219" expanded="true" signature="1035:1132" ph="{...}" />
+                <marker date="1554796638219" expanded="true" signature="1189:1302" ph="{...}" />
+                <marker date="1554796638219" expanded="true" signature="1349:1412" ph="{...}" />
               </folding>
             </state>
           </provider>
@@ -145,6 +85,7 @@
     <setting file="file://$PROJECT_DIR$/src/Nala.Framework/ConsoleWritter.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/src/Nala.Runner/Program.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/test/Nala.Framework.Unit.Test/Expects/Expected_should.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/src/Nala.Framework/Nala.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/src/Nala.Runner/TypeFinder.cs" root0="FORCE_HIGHLIGHTING" />
   </component>
   <component name="IdeDocumentHistory">
@@ -154,6 +95,7 @@
         <option value="$PROJECT_DIR$/src/Nala.Runner/TypeFinder.cs" />
         <option value="$PROJECT_DIR$/test/Nala.Framework.Unit.Test/Expects/Expect_should.cs" />
         <option value="$PROJECT_DIR$/test/Nala.Framework.Unit.Test/Expects/Expected_should.cs" />
+        <option value="$PROJECT_DIR$/src/Nala.Runner/Program.cs" />
       </list>
     </option>
   </component>
@@ -198,39 +140,7 @@
             <path>
               <item name="" type="13324e5d:SolutionExplorerViewPane$ProjectViewPaneTreeStructure$createRoot$1" />
               <item name="Nala (4 projects)" type="977d5f41:SolutionExplorerNodeRider" />
-              <item name="src" type="977d5f41:SolutionExplorerNodeRider" />
-              <item name="Nala.Framework" type="977d5f41:SolutionExplorerNodeRider" />
-              <item name="Expects" type="977d5f41:SolutionExplorerNodeRider" />
-            </path>
-            <path>
-              <item name="" type="13324e5d:SolutionExplorerViewPane$ProjectViewPaneTreeStructure$createRoot$1" />
-              <item name="Nala (4 projects)" type="977d5f41:SolutionExplorerNodeRider" />
-              <item name="src" type="977d5f41:SolutionExplorerNodeRider" />
-              <item name="Nala.Runner" type="977d5f41:SolutionExplorerNodeRider" />
-            </path>
-            <path>
-              <item name="" type="13324e5d:SolutionExplorerViewPane$ProjectViewPaneTreeStructure$createRoot$1" />
-              <item name="Nala (4 projects)" type="977d5f41:SolutionExplorerNodeRider" />
               <item name="test" type="977d5f41:SolutionExplorerNodeRider" />
-            </path>
-            <path>
-              <item name="" type="13324e5d:SolutionExplorerViewPane$ProjectViewPaneTreeStructure$createRoot$1" />
-              <item name="Nala (4 projects)" type="977d5f41:SolutionExplorerNodeRider" />
-              <item name="test" type="977d5f41:SolutionExplorerNodeRider" />
-              <item name="Nala.Framework.Unit.Test" type="977d5f41:SolutionExplorerNodeRider" />
-            </path>
-            <path>
-              <item name="" type="13324e5d:SolutionExplorerViewPane$ProjectViewPaneTreeStructure$createRoot$1" />
-              <item name="Nala (4 projects)" type="977d5f41:SolutionExplorerNodeRider" />
-              <item name="test" type="977d5f41:SolutionExplorerNodeRider" />
-              <item name="Nala.Framework.Unit.Test" type="977d5f41:SolutionExplorerNodeRider" />
-              <item name="Expects" type="977d5f41:SolutionExplorerNodeRider" />
-            </path>
-            <path>
-              <item name="" type="13324e5d:SolutionExplorerViewPane$ProjectViewPaneTreeStructure$createRoot$1" />
-              <item name="Nala (4 projects)" type="977d5f41:SolutionExplorerNodeRider" />
-              <item name="test" type="977d5f41:SolutionExplorerNodeRider" />
-              <item name="SampleSpec" type="977d5f41:SolutionExplorerNodeRider" />
             </path>
           </expand>
           <select />
@@ -244,6 +154,7 @@
   <component name="PropertiesComponent">
     <property name="Rider.ProjectViewActivator.IsNotFirstRun" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/buildNalaRunner.cmd" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -306,12 +217,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1554820703128</updated>
-      <workItem from="1554820705937" duration="1358000" />
+      <workItem from="1554820705937" duration="1850000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="1358000" />
+    <option name="totallyTimeSpent" value="1850000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -327,7 +238,7 @@
     <editor active="true" />
     <layout>
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="right" id="Errors In Solution" />
+      <window_info anchor="right" id="Errors In Solution" weight="0.32995737" />
       <window_info anchor="bottom" id="Event Log" sideWeight="0.50053304" side_tool="true" weight="0.32937685" />
       <window_info anchor="bottom" id="Unit Tests" weight="0.32937685" />
       <window_info anchor="bottom" id="Database Changes" show_stripe_button="false" />
@@ -335,10 +246,10 @@
       <window_info anchor="bottom" id="Run" order="2" />
       <window_info anchor="bottom" id="Terminal" sideWeight="0.49946696" weight="0.32937685" />
       <window_info anchor="bottom" id="NuGet" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.14072494" />
       <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
       <window_info anchor="bottom" id="Build" weight="0.32937685" />
-      <window_info anchor="right" id="Database" />
+      <window_info anchor="right" id="Database" weight="0.32995737" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" side_tool="true" />
       <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.49946696" weight="0.39960435" />
@@ -360,20 +271,6 @@
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
-      <breakpoints>
-        <line-breakpoint enabled="true" type="DotNet Breakpoints">
-          <url>file://$PROJECT_DIR$/src/Nala.Runner/Program.cs</url>
-          <line>9</line>
-          <properties documentPath="$PROJECT_DIR$/src/Nala.Runner/Program.cs" initialLine="9">
-            <startOffsets>
-              <startOffset value="168" />
-            </startOffsets>
-            <endOffsets>
-              <endOffset value="195" />
-            </endOffsets>
-          </properties>
-        </line-breakpoint>
-      </breakpoints>
       <option name="time" value="1" />
     </breakpoint-manager>
   </component>
@@ -392,61 +289,10 @@
     </expressions>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/Nala.Runner/TypeFinder.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="380">
-          <caret line="25" column="16" selection-start-line="25" selection-start-column="16" selection-end-line="25" selection-end-column="16" />
-          <folding>
-            <marker date="1554826581288" expanded="false" signature="6:153" ph="..." />
-            <marker date="1554826581288" expanded="true" signature="176:1133" ph="{...}" />
-            <marker date="1554826581288" expanded="true" signature="206:1131" ph="{...}" />
-            <marker date="1554826581288" expanded="true" signature="275:749" ph="{...}" />
-            <marker date="1554826581288" expanded="true" signature="797:1125" ph="{...}" />
-            <marker date="1554826581288" expanded="true" signature="954:1088" ph="{...}" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Nala.Framework/ConsoleWritter.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="323">
-          <caret line="17" column="27" selection-start-line="17" selection-start-column="27" selection-end-line="17" selection-end-column="27" />
-          <folding>
-            <marker date="1554820799280" expanded="true" signature="39:2328" ph="{...}" />
-            <marker date="1554820799280" expanded="true" signature="84:2326" ph="{...}" />
-            <marker date="1554820799280" expanded="true" signature="158:290" ph="{...}" />
-            <marker date="1554820799280" expanded="true" signature="364:496" ph="{...}" />
-            <marker date="1554820799280" expanded="true" signature="567:700" ph="{...}" />
-            <marker date="1554820799280" expanded="true" signature="793:1060" ph="{...}" />
-            <marker date="1554820799280" expanded="true" signature="1135:1459" ph="{...}" />
-            <marker date="1554820799280" expanded="true" signature="1500:1614" ph="{...}" />
-            <marker date="1554820799280" expanded="true" signature="1655:1769" ph="{...}" />
-            <marker date="1554820799280" expanded="true" signature="1811:1926" ph="{...}" />
-            <marker date="1554820799280" expanded="true" signature="1965:2077" ph="{...}" />
-            <marker date="1554820799280" expanded="true" signature="2134:2320" ph="{...}" />
-            <marker date="1554820799280" expanded="true" signature="2246:2310" ph="{...}" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Nala.Runner/Program.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="437">
-          <caret line="24" column="16" selection-start-line="24" selection-start-column="16" selection-end-line="24" selection-end-column="16" />
-          <folding>
-            <marker date="1554815605074" expanded="false" signature="6:35" ph="..." />
-            <marker date="1554815605074" expanded="true" signature="58:943" ph="{...}" />
-            <marker date="1554815605074" expanded="true" signature="92:941" ph="{...}" />
-            <marker date="1554815605074" expanded="true" signature="145:935" ph="{...}" />
-            <marker date="1554815605074" expanded="true" signature="703:870" ph="{...}" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/test/Nala.Framework.Unit.Test/Expects/Expected_should.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="133">
-          <caret line="7" column="22" selection-start-line="7" selection-start-column="22" selection-end-line="7" selection-end-column="22" />
+        <state relative-caret-position="-969">
+          <caret line="21" column="65" lean-forward="true" selection-start-line="21" selection-start-column="65" selection-end-line="21" selection-end-column="65" />
           <folding>
             <marker date="1554826880490" expanded="true" signature="6:72" ph="..." />
             <marker date="1554826880490" expanded="true" signature="116:7481" ph="{...}" />
@@ -501,6 +347,80 @@
             <marker date="1554826880490" expanded="true" signature="7126:7200" ph="{...}" />
             <marker date="1554826880490" expanded="true" signature="7280:7473" ph="{...}" />
             <marker date="1554826880490" expanded="true" signature="7324:7410" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/buildNalaRunner.cmd">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Nala.Runner/TypeFinder.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="380">
+          <caret line="25" column="16" selection-start-line="25" selection-start-column="16" selection-end-line="25" selection-end-column="16" />
+          <folding>
+            <marker date="1554826581288" expanded="false" signature="6:153" ph="..." />
+            <marker date="1554826581288" expanded="true" signature="176:1133" ph="{...}" />
+            <marker date="1554826581288" expanded="true" signature="206:1131" ph="{...}" />
+            <marker date="1554826581288" expanded="true" signature="275:749" ph="{...}" />
+            <marker date="1554826581288" expanded="true" signature="797:1125" ph="{...}" />
+            <marker date="1554826581288" expanded="true" signature="954:1088" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Nala.Framework/ConsoleWritter.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-59">
+          <caret line="17" column="27" selection-start-line="17" selection-start-column="27" selection-end-line="17" selection-end-column="27" />
+          <folding>
+            <marker date="1554820799280" expanded="true" signature="39:2328" ph="{...}" />
+            <marker date="1554820799280" expanded="true" signature="84:2326" ph="{...}" />
+            <marker date="1554820799280" expanded="true" signature="158:290" ph="{...}" />
+            <marker date="1554820799280" expanded="true" signature="364:496" ph="{...}" />
+            <marker date="1554820799280" expanded="true" signature="567:700" ph="{...}" />
+            <marker date="1554820799280" expanded="true" signature="793:1060" ph="{...}" />
+            <marker date="1554820799280" expanded="true" signature="1135:1459" ph="{...}" />
+            <marker date="1554820799280" expanded="true" signature="1500:1614" ph="{...}" />
+            <marker date="1554820799280" expanded="true" signature="1655:1769" ph="{...}" />
+            <marker date="1554820799280" expanded="true" signature="1811:1926" ph="{...}" />
+            <marker date="1554820799280" expanded="true" signature="1965:2077" ph="{...}" />
+            <marker date="1554820799280" expanded="true" signature="2134:2320" ph="{...}" />
+            <marker date="1554820799280" expanded="true" signature="2246:2310" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Nala.Runner/Program.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="152">
+          <caret line="9" selection-start-line="9" selection-end-line="9" />
+          <folding>
+            <marker date="1554826933750" expanded="false" signature="6:35" ph="..." />
+            <marker date="1554826933750" expanded="true" signature="58:807" ph="{...}" />
+            <marker date="1554826933750" expanded="true" signature="92:805" ph="{...}" />
+            <marker date="1554826933750" expanded="true" signature="145:799" ph="{...}" />
+            <marker date="1554826933750" expanded="true" signature="567:734" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Nala.Framework/Nala.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-135">
+          <folding>
+            <marker date="1554796638219" expanded="false" signature="6:43" ph="..." />
+            <marker date="1554796638219" expanded="true" signature="69:1480" ph="{...}" />
+            <marker date="1554796638219" expanded="true" signature="93:1478" ph="{...}" />
+            <marker date="1554796638219" expanded="true" signature="173:299" ph="{...}" />
+            <marker date="1554796638219" expanded="true" signature="375:531" ph="{...}" />
+            <marker date="1554796638219" expanded="true" signature="577:643" ph="{...}" />
+            <marker date="1554796638219" expanded="true" signature="688:753" ph="{...}" />
+            <marker date="1554796638219" expanded="true" signature="800:867" ph="{...}" />
+            <marker date="1554796638219" expanded="true" signature="913:979" ph="{...}" />
+            <marker date="1554796638219" expanded="true" signature="1035:1132" ph="{...}" />
+            <marker date="1554796638219" expanded="true" signature="1189:1302" ph="{...}" />
+            <marker date="1554796638219" expanded="true" signature="1349:1412" ph="{...}" />
           </folding>
         </state>
       </provider>

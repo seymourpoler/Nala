@@ -10,6 +10,7 @@
     <e p="C:\Users\lrodriguez\.Rider2018.1\system\resharper-host\local\Transient\ReSharperHost\v12\SolutionCaches\_Nala.1139121694.00" t="ExcludeRecursive" />
     <e p="C:\Users\lrodriguez\Documents\code\GitHub\Nala\Nala" t="IncludeFlat">
       <e p=".travis.yml" t="Include" />
+      <e p="buildNalaRunner.cmd" t="Include" />
       <e p="Directory.Build.props" t="Include" />
       <e p="LICENSE" t="Include" />
       <e p="Nala.sln" t="IncludeFlat" />
