@@ -3,6 +3,7 @@ using System.Collections.Generic;
 using System.IO;
 using System.Linq;
 using System.Reflection;
+using System.Runtime.Loader;
 using Nala.Framework.Extensions;
 
 namespace Nala.Runner
@@ -11,8 +12,9 @@ namespace Nala.Runner
     {
         public IReadOnlyCollection<Type> find(string filePath)
         {
-            var assemblyName = Path.GetFileNameWithoutExtension(filePath);
-            var assembly = Assembly.Load(new AssemblyName(assemblyName));
+            //var assemblyName = Path.GetFileNameWithoutExtension(filePath);
+            //var assembly = Assembly.Load(new AssemblyName(assemblyName));
+            var assembly = AssemblyLoadContext.Default.LoadFromAssemblyPath(filePath);
             var types = assembly.GetTypes();
 
             var result = types.Where(t =>
