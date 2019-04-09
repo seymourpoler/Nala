@@ -7,7 +7,7 @@
 	</PropertyGroup>
 
 	<PropertyGroup Label="Test Package Versions">
-    <Microsoft_NET_Test_Sdk>Microsoft_NET_Test_Sdk</Microsoft_NET_Test_Sdk>
+    <Microsoft_NET_Test_Sdk>16.0.1</Microsoft_NET_Test_Sdk>
     <xunit>2.4.1</xunit>
     <xunit_runner_visualstudio>2.4.1</xunit_runner_visualstudio>
     <Moq>4.10.1</Moq>
