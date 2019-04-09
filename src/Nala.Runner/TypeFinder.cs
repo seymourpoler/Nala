@@ -11,7 +11,7 @@ namespace Nala.Runner
     {
         public IReadOnlyCollection<Type> find(string filePath)
         {
-            var assembly = AssemblyLoadContext.Default.LoadFromAssemblyPath(filePath);
+            var assembly = Assembly.LoadFrom(filePath);
             var types = assembly.GetTypes();
 
             var result = types.Where(t =>

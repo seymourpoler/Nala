@@ -1,0 +1,69 @@
+﻿{
+  "version": "1.0.0",
+  "restore": {
+    "projectUniqueName": "C:\\Users\\lrodriguez\\Documents\\code\\GitHub\\Nala\\Nala\\test\\Nala.Framework.Unit.Test\\Nala.Framework.Unit.Test.csproj",
+    "projectName": "Nala.Framework.Unit.Test",
+    "projectPath": "C:\\Users\\lrodriguez\\Documents\\code\\GitHub\\Nala\\Nala\\test\\Nala.Framework.Unit.Test\\Nala.Framework.Unit.Test.csproj",
+    "outputPath": "C:\\Users\\lrodriguez\\Documents\\code\\GitHub\\Nala\\Nala\\test\\Nala.Framework.Unit.Test\\obj\\",
+    "projectStyle": "PackageReference",
+    "fallbackFolders": [
+      "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+    ],
+    "originalTargetFrameworks": [
+      "netcoreapp2.1"
+    ],
+    "frameworks": {
+      "netcoreapp2.1": {
+        "projectReferences": {
+          "C:\\Users\\lrodriguez\\Documents\\code\\GitHub\\Nala\\Nala\\src\\Nala.Framework\\Nala.Framework.csproj": {
+            "projectPath": "C:\\Users\\lrodriguez\\Documents\\code\\GitHub\\Nala\\Nala\\src\\Nala.Framework\\Nala.Framework.csproj"
+          }
+        }
+      }
+    },
+    "warningProperties": {
+      "warnAsError": [
+        "NU1605"
+      ]
+    }
+  },
+  "frameworks": {
+    "netcoreapp2.1": {
+      "dependencies": {
+        "Microsoft.NET.Test.Sdk": {
+          "target": "Package",
+          "version": "[16.0.1, )"
+        },
+        "Microsoft.NETCore.App": {
+          "suppressParent": "All",
+          "target": "Package",
+          "version": "[2.1.0, )",
+          "autoReferenced": true
+        },
+        "Moq": {
+          "target": "Package",
+          "version": "[4.10.1, )"
+        },
+        "Shouldly": {
+          "target": "Package",
+          "version": "[3.0.2, )"
+        },
+        "xunit": {
+          "target": "Package",
+          "version": "[2.4.1, )"
+        },
+        "xunit.runner.visualstudio": {
+          "include": "Runtime, Build, Native, ContentFiles, Analyzers",
+          "suppressParent": "All",
+          "target": "Package",
+          "version": "[2.4.1, )"
+        }
+      },
+      "imports": [
+        "net461"
+      ],
+      "assetTargetFallback": true,
+      "warn": true
+    }
+  }
+}
