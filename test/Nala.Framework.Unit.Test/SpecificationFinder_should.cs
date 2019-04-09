@@ -32,7 +32,7 @@ namespace Nala.Framework.Unit.Test
             result.Specifications.ShouldBeEmpty();
             result.Tests.ShouldBeEmpty();
         }
-        class ClassWithNoMethods: Jasmine { }
+        class ClassWithNoMethods: Nala { }
         
         [Fact]
         public void return_context_when_there_is_one_method()
@@ -44,7 +44,7 @@ namespace Nala.Framework.Unit.Test
             result.Specifications.First().Name.ShouldBe("a_test_method");
             result.Specifications.First().Tests.ShouldBeEmpty();
         }
-        class ClassWithOneMethod : Jasmine { public void a_test_method(){} }
+        class ClassWithOneMethod : Nala { public void a_test_method(){} }
         
         [Fact]
         public void return_context_when_there_is_one_method_and_one_test()
@@ -55,7 +55,7 @@ namespace Nala.Framework.Unit.Test
             result.Specifications.First().Name.ShouldBe("a_test_method");
             result.Specifications.First().Tests.First().Name.ShouldBe("a test");
         }
-        class ClassWithOneMethodAndOneTest : Jasmine
+        class ClassWithOneMethodAndOneTest : Nala
         {
             public void a_test_method()
             {
@@ -74,7 +74,7 @@ namespace Nala.Framework.Unit.Test
             result.Specifications.First().Specifications.First().Tests.First().Name.ShouldBe("a test");
         }
 
-        class ClassWithOneMethodOneDescribeAndOneTest : Jasmine
+        class ClassWithOneMethodOneDescribeAndOneTest : Nala
         {
             public void a_test_method()
             {
@@ -100,7 +100,7 @@ namespace Nala.Framework.Unit.Test
             result.Specifications.First().Specifications.First().Name.ShouldBe("a describe");
             
         }
-        class ClassWithOneMethodWithTestsAndOneDescribeAndOneTest : Jasmine
+        class ClassWithOneMethodWithTestsAndOneDescribeAndOneTest : Nala
         {
             public void a_test_method()
             {
@@ -127,7 +127,7 @@ namespace Nala.Framework.Unit.Test
             result.Specifications.First().Specifications.First().Specifications.First().Tests.First().Name.ShouldBe("a test");
 
         }
-        class ClassWithDescribeWithAnotherDescribeInside : Jasmine
+        class ClassWithDescribeWithAnotherDescribeInside : Nala
         {
             public void a_test_method()
             {

@@ -2,7 +2,7 @@
 
 namespace SampleSpec
 {
-    public class SimpleTest : Jasmine
+    public class SimpleTest : Nala.Framework.Nala
     {
         public void a_fail_test()
         {

@@ -2,7 +2,7 @@
 
 namespace SampleSpec
 {
-    public class DescribeWithIgoredTest : Jasmine
+    public class DescribeWithIgoredTest : Nala.Framework.Nala
     {
         public void method_with_describe_an_ignored_test()
         {

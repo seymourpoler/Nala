@@ -6,7 +6,8 @@ namespace Nala.Runner
     {
         static void Main(string[] args)
         {
-            var path = args[0];
+            //var path = args[0];
+            var path = "Sample.dll";
             var typeFinder = new TypeFinder();
             var specificationFinder = new SpecificationFinder(new ClassFinder(new MethodFinder()));
             var specificationWritter = new SpecificationWritter(new ConsoleWritter());

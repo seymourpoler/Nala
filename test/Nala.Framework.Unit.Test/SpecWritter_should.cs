@@ -45,7 +45,7 @@ namespace Nala.Framework.Unit.Test
             const string testSuiteName = "one level test suite";
             const string testName = "a success test";
             var context = new Specification(testSuiteName);
-            context.AddTest(new Nala.Framework.Test(testName, () => { }));
+            context.AddTest(new global::Nala.Framework.Test(testName, () => { }));
             
             _specificationWritter.Write(context);
 
@@ -59,7 +59,7 @@ namespace Nala.Framework.Unit.Test
             const string testSuiteName = "one level test suite";
             const string testName = "a success test";
             var context = new Specification(testSuiteName);
-            context.AddTest(new Nala.Framework.Test(testName, () => { new Expected<string>("another").ToBeNull(); }));
+            context.AddTest(new global::Nala.Framework.Test(testName, () => { new Expected<string>("another").ToBeNull(); }));
             
             _specificationWritter.Write(context);
 
@@ -71,8 +71,8 @@ namespace Nala.Framework.Unit.Test
         public void write_total_number_of_success_test()
         {
             var context = new Specification("a suite test");
-            context.AddTest(new Nala.Framework.Test("a test", () => { new Expected<string>(value:null).ToBeNull(); }));
-            context.AddTest(new Nala.Framework.Test("anoter test", () => { new Expected<string>(value:null).ToBeNull(); }));
+            context.AddTest(new global::Nala.Framework.Test("a test", () => { new Expected<string>(value:null).ToBeNull(); }));
+            context.AddTest(new global::Nala.Framework.Test("anoter test", () => { new Expected<string>(value:null).ToBeNull(); }));
             
             _specificationWritter.Write(context);
 
@@ -83,8 +83,8 @@ namespace Nala.Framework.Unit.Test
         public void write_total_number_of_ignored_test()
         {
             var context = new Specification("a suite test");
-            context.AddTest(new Nala.Framework.Test("a test", () => { new Expected<string>(value:null).ToBeNull(); }));
-            context.AddTest(new Nala.Framework.Test("anoter test", () => { new Expected<string>("f").ToBeNull(); }, true));
+            context.AddTest(new global::Nala.Framework.Test("a test", () => { new Expected<string>(value:null).ToBeNull(); }));
+            context.AddTest(new global::Nala.Framework.Test("anoter test", () => { new Expected<string>("f").ToBeNull(); }, true));
 
             _specificationWritter.Write(context);
 
@@ -95,8 +95,8 @@ namespace Nala.Framework.Unit.Test
         public void write_total_number_of_fail_test()
         {
             var context = new Specification("a suite test");
-            context.AddTest(new Nala.Framework.Test("a test", () => { new Expected<string>(value:null).ToBeNull(); }));
-            context.AddTest(new Nala.Framework.Test("anoter test", () => { new Expected<string>("f").ToBeNull(); }));
+            context.AddTest(new global::Nala.Framework.Test("a test", () => { new Expected<string>(value:null).ToBeNull(); }));
+            context.AddTest(new global::Nala.Framework.Test("anoter test", () => { new Expected<string>("f").ToBeNull(); }));
 
             _specificationWritter.Write(context);
 
@@ -107,11 +107,11 @@ namespace Nala.Framework.Unit.Test
         public void write_total_number_of_test_in_different_levels_of_depths()
         {
             var context = new Specification("a suite test");
-            context.AddTest(new Nala.Framework.Test("a test", () => { new Expected<string>(value:null).ToBeNull(); }));
-            context.AddTest(new Nala.Framework.Test("anoter test", () => { new Expected<string>("f").ToBeNull(); }));
+            context.AddTest(new global::Nala.Framework.Test("a test", () => { new Expected<string>(value:null).ToBeNull(); }));
+            context.AddTest(new global::Nala.Framework.Test("anoter test", () => { new Expected<string>("f").ToBeNull(); }));
             
             var anotherContext = new Specification("another suite of tests");
-            anotherContext.AddTest(new Nala.Framework.Test("another test", () => {new Expected<string>("null").ToBeNull();}));
+            anotherContext.AddTest(new global::Nala.Framework.Test("another test", () => {new Expected<string>("null").ToBeNull();}));
             context.AddContext(anotherContext);
 
             _specificationWritter.Write(context);

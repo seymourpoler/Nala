@@ -13,7 +13,7 @@ namespace Nala.Framework
             this.method = method;
         }
 
-        public override void Build(Jasmine instance)
+        public override void Build(Nala instance)
         {
             base.Build(instance);
             method.Invoke(instance, null);

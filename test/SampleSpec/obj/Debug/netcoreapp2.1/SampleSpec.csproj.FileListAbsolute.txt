@@ -1,0 +1,12 @@
+C:\Users\lrodriguez\Documents\code\GitHub\Nala\Nala\test\SampleSpec\bin\Debug\netcoreapp2.1\SampleSpec.deps.json
+C:\Users\lrodriguez\Documents\code\GitHub\Nala\Nala\test\SampleSpec\bin\Debug\netcoreapp2.1\SampleSpec.dll
+C:\Users\lrodriguez\Documents\code\GitHub\Nala\Nala\test\SampleSpec\bin\Debug\netcoreapp2.1\SampleSpec.pdb
+C:\Users\lrodriguez\Documents\code\GitHub\Nala\Nala\test\SampleSpec\bin\Debug\netcoreapp2.1\Nala.Framework.dll
+C:\Users\lrodriguez\Documents\code\GitHub\Nala\Nala\test\SampleSpec\bin\Debug\netcoreapp2.1\Nala.Framework.pdb
+C:\Users\lrodriguez\Documents\code\GitHub\Nala\Nala\test\SampleSpec\obj\Debug\netcoreapp2.1\SampleSpec.csproj.CoreCompileInputs.cache
+C:\Users\lrodriguez\Documents\code\GitHub\Nala\Nala\test\SampleSpec\obj\Debug\netcoreapp2.1\SampleSpec.AssemblyInfoInputs.cache
+C:\Users\lrodriguez\Documents\code\GitHub\Nala\Nala\test\SampleSpec\obj\Debug\netcoreapp2.1\SampleSpec.AssemblyInfo.cs
+C:\Users\lrodriguez\Documents\code\GitHub\Nala\Nala\test\SampleSpec\obj\Debug\netcoreapp2.1\SampleSpec.csproj.CopyComplete
+C:\Users\lrodriguez\Documents\code\GitHub\Nala\Nala\test\SampleSpec\obj\Debug\netcoreapp2.1\SampleSpec.dll
+C:\Users\lrodriguez\Documents\code\GitHub\Nala\Nala\test\SampleSpec\obj\Debug\netcoreapp2.1\SampleSpec.pdb
+C:\Users\lrodriguez\Documents\code\GitHub\Nala\Nala\test\SampleSpec\obj\Debug\netcoreapp2.1\SampleSpec.csprojAssemblyReference.cache

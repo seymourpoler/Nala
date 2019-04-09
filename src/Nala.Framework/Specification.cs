@@ -94,7 +94,7 @@ namespace Nala.Framework
             tests.Add(test);
         }
 
-        public virtual void Build(Jasmine instance)
+        public virtual void Build(Nala instance)
         {
             instance.Specification = this;
             for (var position = 0; position < specifications.Count; position++)

@@ -20,7 +20,7 @@ namespace Nala.Framework
             }
 
             var context = classFinder.Find(type);
-            var instance = type.CreateInstanceAs<Jasmine>();
+            var instance = type.CreateInstanceAs<Nala>();
             context.Build(instance);
 
             return context;

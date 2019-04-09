@@ -1,0 +1,9 @@
+C:\Users\lrodriguez\Documents\code\GitHub\Nala\Nala\src\Nala.Framework\bin\Release\netcoreapp2.1\Nala.Framework.deps.json
+C:\Users\lrodriguez\Documents\code\GitHub\Nala\Nala\src\Nala.Framework\bin\Release\netcoreapp2.1\Nala.Framework.dll
+C:\Users\lrodriguez\Documents\code\GitHub\Nala\Nala\src\Nala.Framework\bin\Release\netcoreapp2.1\Nala.Framework.pdb
+C:\Users\lrodriguez\Documents\code\GitHub\Nala\Nala\src\Nala.Framework\obj\Release\netcoreapp2.1\Nala.Framework.csprojAssemblyReference.cache
+C:\Users\lrodriguez\Documents\code\GitHub\Nala\Nala\src\Nala.Framework\obj\Release\netcoreapp2.1\Nala.Framework.csproj.CoreCompileInputs.cache
+C:\Users\lrodriguez\Documents\code\GitHub\Nala\Nala\src\Nala.Framework\obj\Release\netcoreapp2.1\Nala.Framework.AssemblyInfoInputs.cache
+C:\Users\lrodriguez\Documents\code\GitHub\Nala\Nala\src\Nala.Framework\obj\Release\netcoreapp2.1\Nala.Framework.AssemblyInfo.cs
+C:\Users\lrodriguez\Documents\code\GitHub\Nala\Nala\src\Nala.Framework\obj\Release\netcoreapp2.1\Nala.Framework.dll
+C:\Users\lrodriguez\Documents\code\GitHub\Nala\Nala\src\Nala.Framework\obj\Release\netcoreapp2.1\Nala.Framework.pdb

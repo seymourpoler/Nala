@@ -1,0 +1,17 @@
+C:\Users\lrodriguez\Documents\code\GitHub\Nala\Nala\src\Nala.Runner\bin\Release\netcoreapp2.1\win10-x64\hostpolicy.dll
+C:\Users\lrodriguez\Documents\code\GitHub\Nala\Nala\src\Nala.Runner\bin\Release\netcoreapp2.1\win10-x64\hostfxr.dll
+C:\Users\lrodriguez\Documents\code\GitHub\Nala\Nala\src\Nala.Runner\bin\Release\netcoreapp2.1\win10-x64\Nala.Runner.exe
+C:\Users\lrodriguez\Documents\code\GitHub\Nala\Nala\src\Nala.Runner\bin\Release\netcoreapp2.1\win10-x64\Nala.Runner.deps.json
+C:\Users\lrodriguez\Documents\code\GitHub\Nala\Nala\src\Nala.Runner\bin\Release\netcoreapp2.1\win10-x64\Nala.Runner.runtimeconfig.json
+C:\Users\lrodriguez\Documents\code\GitHub\Nala\Nala\src\Nala.Runner\bin\Release\netcoreapp2.1\win10-x64\Nala.Runner.runtimeconfig.dev.json
+C:\Users\lrodriguez\Documents\code\GitHub\Nala\Nala\src\Nala.Runner\bin\Release\netcoreapp2.1\win10-x64\Nala.Runner.dll
+C:\Users\lrodriguez\Documents\code\GitHub\Nala\Nala\src\Nala.Runner\bin\Release\netcoreapp2.1\win10-x64\Nala.Runner.pdb
+C:\Users\lrodriguez\Documents\code\GitHub\Nala\Nala\src\Nala.Runner\bin\Release\netcoreapp2.1\win10-x64\Nala.Framework.dll
+C:\Users\lrodriguez\Documents\code\GitHub\Nala\Nala\src\Nala.Runner\bin\Release\netcoreapp2.1\win10-x64\Nala.Framework.pdb
+C:\Users\lrodriguez\Documents\code\GitHub\Nala\Nala\src\Nala.Runner\obj\Release\netcoreapp2.1\win10-x64\Nala.Runner.csprojAssemblyReference.cache
+C:\Users\lrodriguez\Documents\code\GitHub\Nala\Nala\src\Nala.Runner\obj\Release\netcoreapp2.1\win10-x64\Nala.Runner.csproj.CoreCompileInputs.cache
+C:\Users\lrodriguez\Documents\code\GitHub\Nala\Nala\src\Nala.Runner\obj\Release\netcoreapp2.1\win10-x64\Nala.Runner.AssemblyInfoInputs.cache
+C:\Users\lrodriguez\Documents\code\GitHub\Nala\Nala\src\Nala.Runner\obj\Release\netcoreapp2.1\win10-x64\Nala.Runner.AssemblyInfo.cs
+C:\Users\lrodriguez\Documents\code\GitHub\Nala\Nala\src\Nala.Runner\obj\Release\netcoreapp2.1\win10-x64\Nala.Runner.csproj.CopyComplete
+C:\Users\lrodriguez\Documents\code\GitHub\Nala\Nala\src\Nala.Runner\obj\Release\netcoreapp2.1\win10-x64\Nala.Runner.dll
+C:\Users\lrodriguez\Documents\code\GitHub\Nala\Nala\src\Nala.Runner\obj\Release\netcoreapp2.1\win10-x64\Nala.Runner.pdb

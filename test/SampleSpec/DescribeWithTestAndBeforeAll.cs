@@ -2,7 +2,7 @@ using Nala.Framework;
 
 namespace SampleSpec
 {
-    public class DescribeWithTestAndBeforeAll : Jasmine
+    public class DescribeWithTestAndBeforeAll : Nala.Framework.Nala
     {
         public void a_describe_with_a_success_test_and_forEach_method()
         {

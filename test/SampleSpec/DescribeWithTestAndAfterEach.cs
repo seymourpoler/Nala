@@ -2,7 +2,7 @@
 
 namespace SampleSpec
 {
-    public class DescribeWithTestAndAfterEach : Jasmine
+    public class DescribeWithTestAndAfterEach : Nala.Framework.Nala
     {
         public void a_describe_with_a_success_test_and_afterEach_method()
         {

@@ -3,7 +3,6 @@ using System.Collections.Generic;
 using System.IO;
 using System.Linq;
 using System.Reflection;
-using Nala.Framework;
 using Nala.Framework.Extensions;
 
 namespace Nala.Runner
@@ -19,7 +18,7 @@ namespace Nala.Runner
             var result = types.Where(t =>
                 t.GetTypeInfo().IsClass
                 && !t.GetTypeInfo().IsAbstract
-                && BaseTypes(t).Any(s => s == typeof(Jasmine)));
+                && BaseTypes(t).Any(s => s == typeof(Framework.Nala)));
 
             return result.OrderBy(x => x.Name).ToList().AsReadOnly();
         }
